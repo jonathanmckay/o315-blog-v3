@@ -35,3 +35,7 @@ I walk in, and ask for Band-Aids, disinfectant, and a pair of pliers. I'm remind
 ---
 
 *Another 5 minutes of life.*
+
+---
+
+**Source:** [o314/2008/the-wreck.md](../../2008/the-wreck.md)

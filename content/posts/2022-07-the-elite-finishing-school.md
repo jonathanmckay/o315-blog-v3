@@ -21,3 +21,7 @@ And Meta was a second example to see how the world perceives itself so imperfect
 I see no world in which history or I regret having left in order to live a life on different axes, the question is will I continue to stay in San Francisco? Even if not, at least we have a home base here to return to that is being paid for at a reasonable interest rate.
 
 **Meta was the elite finishing school. And I learned those damn lessons. Now it's time to go out into the world and apply them.**
+
+---
+
+**Source:** [o314/2022/what-was-the-meaning-of-my-time-at-meta.md](../../2022/what-was-the-meaning-of-my-time-at-meta.md)

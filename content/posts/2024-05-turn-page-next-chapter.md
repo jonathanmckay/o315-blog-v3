@@ -31,3 +31,7 @@ Not until our net worth dips below 5-10 million, neon is the thing that I think 
 *"Living here is like living in the dystopian future. But the future is a place where I have the skills to be in the one percent, one where I succeed."* — Jan '19
 
 *Neon is binary because there are two systems of operating: one is external stimulus based, and the other is internal stimulus based.* — Apr '24
+
+---
+
+**Source:** [o314/2024/turn-page-next-chapter.md](../../2024/turn-page-next-chapter.md)

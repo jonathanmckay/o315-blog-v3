@@ -1,6 +1,6 @@
-/* Plain markdown aesthetic */
+/* Plain markdown aesthetic - GitHub style */
 :root {
-    --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     --content-width: 680px;
 }
 
@@ -106,45 +106,87 @@ a:hover {
     opacity: 0.6;
 }
 
-/* Subscribe box styling */
-.subscribe-box {
-    margin: 3rem 0;
-    padding: 2rem;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    border-radius: 4px;
-    text-align: center;
+/* Subscribe footer - plain and simple */
+.subscribe-footer {
+    max-width: var(--content-width);
+    margin: 0 auto 2rem;
+    padding: 2rem 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-.dark .subscribe-box {
-    border-color: rgba(255, 255, 255, 0.1);
+.dark .subscribe-footer {
+    border-top-color: rgba(255, 255, 255, 0.1);
 }
 
-.subscribe-box h3 {
-    margin-top: 0;
-    font-size: 20px;
+.subscribe-footer p {
+    margin: 0.5rem 0;
+    font-size: 16px;
+}
+
+.subscribe-footer strong {
     font-weight: 600;
 }
 
-.subscribe-box p {
-    margin-bottom: 1.5rem;
-    opacity: 0.8;
+.subscribe-footer form {
+    margin-top: 1rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
 }
 
-.subscribe-button {
-    display: inline-block;
-    padding: 0.75rem 1.5rem;
-    background: #000;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 4px;
-    font-weight: 500;
+.subscribe-footer input[type="email"] {
+    flex: 1;
+    min-width: 200px;
+    padding: 0.5rem 0.75rem;
+    font-size: 16px;
+    font-family: var(--font-family);
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    background: transparent;
 }
 
-.dark .subscribe-button {
-    background: #fff;
-    color: #000;
+.dark .subscribe-footer input[type="email"] {
+    border-color: rgba(255, 255, 255, 0.2);
+    color: inherit;
 }
 
-.subscribe-button:hover {
-    opacity: 0.8;
+.subscribe-footer input[type="email"]:focus {
+    outline: none;
+    border-color: rgba(0, 0, 0, 0.4);
+}
+
+.dark .subscribe-footer input[type="email"]:focus {
+    border-color: rgba(255, 255, 255, 0.4);
+}
+
+.subscribe-footer input[type="submit"] {
+    padding: 0.5rem 1.5rem;
+    font-size: 16px;
+    font-family: var(--font-family);
+    background: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.dark .subscribe-footer input[type="submit"] {
+    border-color: rgba(255, 255, 255, 0.2);
+    color: inherit;
+}
+
+.subscribe-footer input[type="submit"]:hover {
+    border-color: rgba(0, 0, 0, 0.4);
+}
+
+.dark .subscribe-footer input[type="submit"]:hover {
+    border-color: rgba(255, 255, 255, 0.4);
+}
+
+/* Footer info below subscribe */
+.footer-info {
+    max-width: var(--content-width);
+    margin: 0 auto;
+    padding-top: 1rem;
+    font-size: 14px;
+    opacity: 0.6;
 }
