@@ -1,0 +1,48 @@
+baseURL = 'https://jonathanmckay.com/'
+languageCode = 'en-us'
+title = 'Jonathan McKay'
+theme = 'PaperMod'
+paginate = 10
+
+[params]
+description = "Personal journal and essays, 1999-present"
+author = "Jonathan McKay"
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = false
+defaultTheme = "auto"
+disableThemeToggle = false
+disableScrollToTop = true
+
+[params.homeInfoParams]
+Title = "Jonathan McKay"
+Content = """
+Personal journal and essays spanning 25+ years. Topics include technology,
+parenting, travel, language learning, and working at places like Facebook,
+OpenAI, and the U.S. Foreign Service.
+"""
+
+[[menu.main]]
+name = "Archive"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+name = "Topics"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 30
+
+[taxonomies]
+tag = "tags"
+year = "years"
+
+[permalinks]
+posts = "/:year/:month/:slug/"

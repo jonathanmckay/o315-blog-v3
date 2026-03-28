@@ -1,0 +1,150 @@
+/* Plain markdown aesthetic */
+:root {
+    --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --content-width: 680px;
+}
+
+body {
+    font-family: var(--font-family);
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+/* Constrain width like a text document */
+.main {
+    max-width: var(--content-width);
+}
+
+.post-content {
+    max-width: var(--content-width);
+}
+
+/* Remove all icons */
+.post-meta svg,
+.breadcrumbs svg,
+.post-tags svg,
+nav svg,
+svg {
+    display: none;
+}
+
+/* Minimal header - just text */
+.logo {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+nav#menu {
+    font-size: 16px;
+}
+
+/* Plain text post titles */
+.post-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+    line-height: 1.3;
+}
+
+.entry-header h1 {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+/* Minimal metadata - small, quiet */
+.post-meta {
+    font-size: 14px;
+    opacity: 0.6;
+    margin-bottom: 2rem;
+}
+
+/* Simple underline links like markdown */
+a {
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 0, 0, 0.3);
+}
+
+.dark a {
+    text-decoration-color: rgba(255, 255, 255, 0.3);
+}
+
+a:hover {
+    text-decoration-color: currentColor;
+}
+
+/* Plain tags */
+.post-tags {
+    font-size: 14px;
+    opacity: 0.7;
+    margin-top: 2rem;
+}
+
+.post-tags a {
+    text-decoration: none;
+    margin-right: 0.5rem;
+}
+
+.post-tags a::before {
+    content: "#";
+}
+
+/* Remove borders and decorations */
+.post-entry {
+    border: none !important;
+}
+
+/* Simplified list items */
+.post-entry .entry-header h2 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* Clean footer */
+.footer {
+    font-size: 14px;
+    opacity: 0.6;
+}
+
+/* Subscribe box styling */
+.subscribe-box {
+    margin: 3rem 0;
+    padding: 2rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    text-align: center;
+}
+
+.dark .subscribe-box {
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.subscribe-box h3 {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.subscribe-box p {
+    margin-bottom: 1.5rem;
+    opacity: 0.8;
+}
+
+.subscribe-button {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+.dark .subscribe-button {
+    background: #fff;
+    color: #000;
+}
+
+.subscribe-button:hover {
+    opacity: 0.8;
+}
