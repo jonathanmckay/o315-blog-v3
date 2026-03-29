@@ -3,16 +3,18 @@
     {{- partial "subscribe.html" . }}
 
     <div class="footer-info">
+        <span>
+            <a href="https://github.com/jonathanmckay" rel="noopener" target="_blank">GitHub</a> ·
+            <a href="https://www.linkedin.com/in/jonathanbmckay/" rel="noopener" target="_blank">LinkedIn</a> ·
+            <a href="https://www.facebook.com/quantumn/" rel="noopener" target="_blank">Facebook</a> ·
+            <a href="https://www.instagram.com/quantumn7" rel="noopener" target="_blank">Instagram</a>
+        </span>
+        <br>
         {{- if site.Copyright }}
         <span>{{ site.Copyright | markdownify }}</span>
         {{- else }}
         <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
         {{- end }}
-        <span>
-            Powered by
-            <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-            <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-        </span>
     </div>
 </footer>
 {{- end }}

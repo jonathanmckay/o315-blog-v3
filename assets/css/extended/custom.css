@@ -19,11 +19,12 @@ body {
     max-width: var(--content-width);
 }
 
-/* Remove all icons except social */
+/* Remove all icons */
 .post-meta svg,
 .breadcrumbs svg,
 .post-tags svg,
-nav svg {
+nav svg,
+svg {
     display: none;
 }
 
