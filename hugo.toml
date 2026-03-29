@@ -40,6 +40,22 @@ name = "About"
 url = "/about/"
 weight = 30
 
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/jonathanmckay"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/jonathanbmckay/"
+
+[[params.socialIcons]]
+name = "facebook"
+url = "https://www.facebook.com/quantumn/"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/quantumn7"
+
 [taxonomies]
 tag = "tags"
 year = "years"
