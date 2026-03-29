@@ -112,6 +112,7 @@ a:hover {
     margin: 0 auto 2rem;
     padding: 2rem 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
 
 .dark .subscribe-footer {
@@ -132,6 +133,7 @@ a:hover {
     display: flex;
     gap: 0.5rem;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .subscribe-footer input[type="email"] {
@@ -163,23 +165,27 @@ a:hover {
     padding: 0.5rem 1.5rem;
     font-size: 16px;
     font-family: var(--font-family);
-    background: transparent;
-    border: 1px solid rgba(0, 0, 0, 0.2);
+    background: #000;
+    color: #fff;
+    border: 1px solid #000;
     border-radius: 3px;
     cursor: pointer;
 }
 
 .dark .subscribe-footer input[type="submit"] {
-    border-color: rgba(255, 255, 255, 0.2);
-    color: inherit;
+    background: #fff;
+    color: #000;
+    border-color: #fff;
 }
 
 .subscribe-footer input[type="submit"]:hover {
-    border-color: rgba(0, 0, 0, 0.4);
+    background: #333;
+    border-color: #333;
 }
 
 .dark .subscribe-footer input[type="submit"]:hover {
-    border-color: rgba(255, 255, 255, 0.4);
+    background: #ddd;
+    border-color: #ddd;
 }
 
 /* Footer info below subscribe */
