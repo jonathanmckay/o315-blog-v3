@@ -137,8 +137,8 @@ a:hover {
 }
 
 .subscribe-footer input[type="email"] {
-    flex: 1;
-    min-width: 200px;
+    width: 240px;
+    flex: none;
     padding: 0.5rem 0.75rem;
     font-size: 16px;
     font-family: var(--font-family);
