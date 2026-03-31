@@ -5,9 +5,9 @@ theme = 'PaperMod'
 paginate = 10
 
 [params]
-description = "Personal journal and essays, 1999-present"
-author = "Jonathan McKay"
+description = "Journal and essays, 1999-present"
 ShowReadingTime = true
+DateFormat = "2006.01.02"
 ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = false
@@ -20,7 +20,7 @@ disableScrollToTop = true
 [params.homeInfoParams]
 Title = "Jonathan McKay"
 Content = """
-Personal journal and essays spanning 25+ years. Topics include technology,
+Journal and essays spanning 25 years. Topics include technology,
 parenting, travel, language learning, and working at places like Facebook,
 OpenAI, and the U.S. Foreign Service.
 """
