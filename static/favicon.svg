@@ -1,3 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <path d="M50 8 C50 8, 18 45, 18 63 C18 82, 32 94, 50 94 C68 94, 82 82, 82 63 C82 45, 50 8, 50 8 Z" fill="#111"/>
+  <style>
+    path { fill: #111; }
+    @media (prefers-color-scheme: dark) { path { fill: #fff; } }
+  </style>
+  <path d="M50 8 C50 8, 18 45, 18 63 C18 82, 32 94, 50 94 C68 94, 82 82, 82 63 C82 45, 50 8, 50 8 Z"/>
 </svg>
