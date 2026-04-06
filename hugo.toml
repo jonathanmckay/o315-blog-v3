@@ -4,6 +4,9 @@ title = 'Jonathan McKay'
 theme = 'PaperMod'
 paginate = 10
 
+[params.assets]
+favicon = "favicon.svg"
+
 [params]
 description = "Journal and essays, 1999-present"
 ShowReadingTime = true
