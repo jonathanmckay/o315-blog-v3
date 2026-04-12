@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Jonathan McKay'
 theme = 'PaperMod'
 paginate = 10
-googleAnalytics = 'G-XXXXXXXXXX'  # TODO: replace with real GA4 measurement ID
+googleAnalytics = 'G-6CG9Z8EE9F'
 
 [params.assets]
 favicon = "favicon.svg"
