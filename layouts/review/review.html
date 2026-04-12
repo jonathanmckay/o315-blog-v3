@@ -1,0 +1,121 @@
+{{- define "main" }}
+
+{{- /* JSON-LD structured data for Google Rich Results */ -}}
+{{- if .Params.isbn }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "Book",
+    "name": {{ .Title | jsonify }},
+    {{- with .Params.author }}
+    "author": { "@type": "Person", "name": {{ . | jsonify }} },
+    {{- end }}
+    {{- with .Params.isbn }}
+    "isbn": {{ . | jsonify }},
+    {{- end }}
+    {{- with .Params.series }}
+    "isPartOf": { "@type": "BookSeries", "name": {{ . | jsonify }} }
+    {{- end }}
+  },
+  "author": { "@type": "Person", "name": "Jonathan McKay" },
+  "datePublished": {{ .Date.Format "2006-01-02" | jsonify }}
+  {{- with .Params.score }},
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": {{ . }},
+    "bestRating": 5,
+    "worstRating": 1
+  }
+  {{- end }}
+  {{- with .Params.description }},
+  "reviewBody": {{ . | jsonify }}
+  {{- end }}
+}
+</script>
+{{- end }}
+
+<article class="post-single review-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title entry-hint-parent">
+      {{ .Title }}
+    </h1>
+    <div class="post-meta">
+      {{- with .Params.author }}<span class="review-author">{{ . }}</span> · {{ end }}
+      {{- with .Params.score }}<span class="review-score">{{ . }}/5</span> · {{ end }}
+      <span>{{ .Date.Format "2006.01.02" }}</span>
+      {{- with .Params.series }} · <span class="review-series">{{ . }}{{ with $.Params.series_number }} #{{ . }}{{ end }}</span>{{ end }}
+    </div>
+  </header>
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+  {{- end }}
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      {{- range ($.GetTerms "tags") }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+      {{- range ($.GetTerms "genres") }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+
+    {{- /* Series navigation */ -}}
+    {{- if or .Params.series_prev .Params.series_next }}
+    <nav class="series-nav">
+      <h3>{{ .Params.series }} series</h3>
+      <div class="series-links">
+        {{- with .Params.series_prev }}
+        {{- $prev := $.Site.GetPage (printf "/reviews/%s" (path.BaseName .)) }}
+        {{- if $prev }}
+        <a href="{{ $prev.Permalink }}" class="prev">&larr; {{ $prev.Title }}</a>
+        {{- end }}
+        {{- end }}
+        {{- with .Params.series_next }}
+        {{- $next := $.Site.GetPage (printf "/reviews/%s" (path.BaseName .)) }}
+        {{- if $next }}
+        <a href="{{ $next.Permalink }}" class="next">{{ $next.Title }} &rarr;</a>
+        {{- end }}
+        {{- end }}
+      </div>
+    </nav>
+    {{- end }}
+
+    {{- /* More by this author */ -}}
+    {{- with .Params.related }}
+    <nav class="related-reviews">
+      <h3>More by {{ $.Params.author }}</h3>
+      <ul>
+        {{- range . }}
+        {{- $rel := $.Site.GetPage (printf "/reviews/%s" (path.BaseName .)) }}
+        {{- if $rel }}
+        <li><a href="{{ $rel.Permalink }}">{{ $rel.Title }}{{ with $rel.Params.score }} ({{ . }}/5){{ end }}</a></li>
+        {{- end }}
+        {{- end }}
+      </ul>
+    </nav>
+    {{- end }}
+
+    {{- /* Mentioned books */ -}}
+    {{- with .Params.mentions }}
+    <nav class="mentioned-reviews">
+      <h3>Books mentioned in this review</h3>
+      <ul>
+        {{- range . }}
+        {{- $men := $.Site.GetPage (printf "/reviews/%s" (path.BaseName .)) }}
+        {{- if $men }}
+        <li><a href="{{ $men.Permalink }}">{{ $men.Title }}</a></li>
+        {{- end }}
+        {{- end }}
+      </ul>
+    </nav>
+    {{- end }}
+  </footer>
+</article>
+{{- end }}

@@ -1,0 +1,54 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <p class="page-description">{{ . }}</p>
+  {{- end }}
+</header>
+
+{{- $reviews := where .Pages "Params.draft" "ne" true }}
+{{- $scored := where $reviews "Params.score" "!=" nil }}
+
+<div class="review-stats">
+  <p>{{ len $reviews }} reviews · Average score:
+  {{- $total := 0 }}{{- $count := 0 }}
+  {{- range $scored }}{{- $total = add $total .Params.score }}{{- $count = add $count 1 }}{{- end }}
+  {{- if gt $count 0 }}{{ div (add (mul $total 10) (div $count 2)) (mul $count 10) }}.{{ mod (div (mul $total 10) $count) 10 }}{{- end }}/5
+  </p>
+</div>
+
+{{- /* Group by score descending */ -}}
+{{- range seq 5 1 }}
+{{- $score := . }}
+{{- $matching := where $scored "Params.score" $score }}
+{{- if $matching }}
+<h2>{{ $score }}/5 ({{ len $matching }})</h2>
+<ul class="review-list">
+  {{- range $matching.ByDate.Reverse }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{- with .Params.author }} — <span class="review-author">{{ . }}</span>{{ end }}
+    <span class="review-date">{{ .Date.Format "2006" }}</span>
+  </li>
+  {{- end }}
+</ul>
+{{- end }}
+{{- end }}
+
+{{- /* Unscored */ -}}
+{{- $unscored := where $reviews "Params.score" nil }}
+{{- if $unscored }}
+<h2>Unscored ({{ len $unscored }})</h2>
+<ul class="review-list">
+  {{- range $unscored.ByDate.Reverse }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{- with .Params.author }} — <span class="review-author">{{ . }}</span>{{ end }}
+    <span class="review-date">{{ .Date.Format "2006" }}</span>
+  </li>
+  {{- end }}
+</ul>
+{{- end }}
+
+{{- end }}
