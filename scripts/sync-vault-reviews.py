@@ -49,6 +49,23 @@ def strip_layout_field(content):
     return re.sub(r"^layout:\s*review\s*\n", "", content, count=1, flags=re.MULTILINE)
 
 
+def has_body_content(filepath):
+    """Check if a review has actual content after the frontmatter."""
+    try:
+        with open(filepath, "r", encoding="utf-8", errors="replace") as f:
+            content = f.read()
+    except (OSError, IOError):
+        return False
+    match = re.match(r"^---\s*\n.*?\n---\s*\n?", content, re.DOTALL)
+    if not match:
+        return False
+    body = content[match.end():].strip()
+    # A bare URL alone doesn't count as content
+    if not body or (body.startswith("http") and "\n" not in body.strip()):
+        return False
+    return True
+
+
 def is_review_file(filepath, filename):
     """Check if a file should be synced as a review."""
     if filename in SKIP_FILES:
@@ -70,7 +87,14 @@ def is_review_file(filepath, filename):
         return False
 
     # Must be a review
-    return fm.get("type") == "review"
+    if fm.get("type") != "review":
+        return False
+
+    # Skip empty reviews (no body content)
+    if not has_body_content(filepath):
+        return False
+
+    return True
 
 
 def main():
