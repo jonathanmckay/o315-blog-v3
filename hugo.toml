@@ -9,6 +9,7 @@ googleAnalytics = 'G-6CG9Z8EE9F'
 favicon = "favicon.svg"
 
 [params]
+env = "production"
 description = "Journal and essays, 1999-present"
 ShowReadingTime = true
 DateFormat = "2006.01.02"
