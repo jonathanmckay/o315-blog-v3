@@ -11,10 +11,11 @@ status: dnf
 description: "https://www.goodreads.com/review/show/8431120674 <b>Nintendo Lionizing, Not Nintendo History</b> I went in hoping for a book about Nintendo: the odd"
 mentions:
   - "2017/console-wars-sega-nintendo-and-the-battle-that-defined-a-generation.md"
+  - "2026/blood-sweat-and-pixels.md"
+  - "2026/press-reset.md"
+  - "2026/play-nice.md"
 
 ---
-
-https://www.goodreads.com/review/show/8431120674
 
 <b>Nintendo Lionizing, Not Nintendo History</b>
 
