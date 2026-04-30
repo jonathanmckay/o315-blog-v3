@@ -1,7 +1,7 @@
 ---
 title: "The Gamble: General David Petraeus and the American Military Adventure in Iraq, 2006-2008"
 author: "Thomas E. Ricks"
-date: 2026-03-14
+date: 2011-08-12
 type: review
 media: book
 tags: [hcmc, review]

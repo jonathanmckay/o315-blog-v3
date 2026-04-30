@@ -1,7 +1,7 @@
 ---
 title: "Wall and Piece"
 author: "Banksy"
-date: 2026-03-14
+date: 2011-08-12
 type: review
 media: book
 score: 4
