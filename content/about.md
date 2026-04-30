@@ -20,7 +20,7 @@ Essays and reflections on:
 
 ## Background
 
-I've worked at the intersection of technology, policy, and international affairs. My career has taken me from the U.S. State Department to Silicon Valley and back again. I speak Mandarin, enjoy long motorcycle rides, and practice Zenstoic philosophy.
+I've worked across technology, policy, and international affairs. I led growth for ChatGPT at OpenAI, founded the team that combats information operations on Facebook, and served in Iraq for the U.S. State Department. I speak Mandarin, and rusty Arabic. I founded and run a real estate company focused on affordable housing in Washington and Montana. I like motorcycle rides and Starcraft, and practice Zenstoic philosophy.
 
 ## About This Site
 
