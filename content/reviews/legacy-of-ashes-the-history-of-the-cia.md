@@ -1,7 +1,7 @@
 ---
 title: "Legacy of Ashes: The History of the CIA"
 author: "Tim Weiner"
-date: 2026-03-14
+date: 2008-03-14
 type: review
 media: book
 score: 3

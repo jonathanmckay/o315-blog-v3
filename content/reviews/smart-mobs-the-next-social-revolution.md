@@ -1,7 +1,7 @@
 ---
 title: "Smart Mobs: The Next Social Revolution"
 author: "Howard Rheingold"
-date: 2026-03-14
+date: 2008-03-14
 type: review
 media: book
 score: 5

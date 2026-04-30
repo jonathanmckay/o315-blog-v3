@@ -1,7 +1,7 @@
 ---
 title: "First In: An Insider's Account of How the CIA Spearheaded the War on Terror in Afghanistan"
 author: "Gary Schroen"
-date: 2026-03-14
+date: 2008-03-14
 type: review
 media: book
 score: 4

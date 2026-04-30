@@ -1,7 +1,7 @@
 ---
 title: "Naked Economics: Undressing the Dismal Science"
 author: "Charles Wheelan"
-date: 2026-03-14
+date: 2008-03-14
 type: review
 media: book
 tags: [hcmc, review]

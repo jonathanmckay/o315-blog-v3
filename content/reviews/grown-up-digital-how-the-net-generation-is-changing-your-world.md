@@ -1,7 +1,7 @@
 ---
 title: "Grown Up Digital: How the Net Generation is Changing Your World"
 author: "Don Tapscott"
-date: 2026-03-14
+date: 2008-03-14
 type: review
 media: book
 score: 3
