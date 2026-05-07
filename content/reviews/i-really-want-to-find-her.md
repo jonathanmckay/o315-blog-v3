@@ -1,5 +1,5 @@
 ---
-title: "I Really Want to Find Her (Chinese Breeze Graded Reader Series, Level 1: 300-Word Level)"
+title: "比较没有意思但是，我很喜欢中文风: I Really Want to Find Her (Chinese Breeze Graded Reader Series, Level 1: 300-Word Level)"
 date: 2012-01-15
 author: "Yuehua Liu"
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "The Goblin Emperor (The Chronicles of Osreth, #1)"
+title: "Competent is Good Enough: The Goblin Emperor (The Chronicles of Osreth, #1)"
 author: "Katherine Addison"
 date: 2021-08-30
 type: review

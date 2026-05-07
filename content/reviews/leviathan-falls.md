@@ -1,5 +1,5 @@
 ---
-title: "Leviathan Falls (The Expanse, #9)"
+title: "Leviathan Deflates: Leviathan Falls (The Expanse, #9)"
 author: "James S.A. Corey"
 date: 2021-12-02
 type: review

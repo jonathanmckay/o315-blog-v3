@@ -1,5 +1,5 @@
 ---
-title: "Radical Acceptance: Embracing Your Life With the Heart of a Buddha"
+title: "Pop Buddha: Radical Acceptance: Embracing Your Life With the Heart of a Buddha"
 author: "Tara Brach"
 date: 2021-11-02
 type: review

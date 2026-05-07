@@ -1,5 +1,5 @@
 ---
-title: "The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company"
+title: "Iger for President?: The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company"
 author: "Robert Iger"
 date: 2020-09-06
 type: review

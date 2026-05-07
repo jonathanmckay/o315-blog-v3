@@ -1,5 +1,5 @@
 ---
-title: "One Minute to Midnight: Kennedy, Khrushchev and Castro on the Brink of Nuclear War"
+title: "Man plans and god laughs, nuclear war doesn’t change the equation.: One Minute to Midnight: Kennedy, Khrushchev and Castro on the Brink of Nuclear War"
 author: "Michael  Dobbs"
 date: 2020-09-15
 type: review

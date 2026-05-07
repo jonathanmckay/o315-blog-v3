@@ -1,5 +1,5 @@
 ---
-title: "The Partnership Charter: How To Start Out Right With Your New Business Partnership (or Fix The One You're In)"
+title: "同床异梦 - Same Bed, Different Dreams: The Partnership Charter: How To Start Out Right With Your New Business Partnership (or Fix The One You're In)"
 author: "David Gage"
 date: 2020-11-09
 type: review

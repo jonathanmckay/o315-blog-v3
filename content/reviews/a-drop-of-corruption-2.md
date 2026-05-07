@@ -1,5 +1,5 @@
 ---
-title: "A Drop of Corruption (Shadow of the Leviathan, #2)"
+title: "Murder, Magic, Malaise: A Drop of Corruption (Shadow of the Leviathan, #2)"
 author: "Robert Jackson Bennett"
 date: 2025-02-28
 type: review

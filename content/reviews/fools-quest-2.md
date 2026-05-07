@@ -1,5 +1,5 @@
 ---
-title: "Fool's Quest  (The Fitz and the Fool, #2)"
+title: "A Pause in the Long Road: Fool's Quest (The Fitz and the Fool, #2)"
 author: "Robin Hobb"
 date: 2025-11-28
 type: review

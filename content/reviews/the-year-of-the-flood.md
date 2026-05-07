@@ -1,5 +1,5 @@
 ---
-title: "The Year of the Flood (MaddAddam, #2)"
+title: "End of the World was Boring: The Year of the Flood (MaddAddam, #2)"
 author: "Margaret Atwood"
 date: 2021-08-10
 type: review

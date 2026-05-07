@@ -1,5 +1,5 @@
 ---
-title: "Exhalation"
+title: "Sci-Factoids: Exhalation"
 author: "Ted Chiang"
 date: 2021-01-23
 type: review

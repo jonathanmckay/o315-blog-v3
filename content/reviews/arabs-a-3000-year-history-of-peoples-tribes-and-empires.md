@@ -1,5 +1,5 @@
 ---
-title: "Arabs: A 3,000-Year History of Peoples, Tribes and Empires"
+title: "Civilization is Just Another Tale...: Arabs: A 3,000-Year History of Peoples, Tribes and Empires"
 author: "Tim Mackintosh-Smith"
 date: 2020-10-16
 type: review

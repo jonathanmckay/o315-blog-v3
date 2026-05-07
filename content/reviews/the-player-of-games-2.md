@@ -1,5 +1,5 @@
 ---
-title: "The Player of Games (Culture, #2)"
+title: "Regrets of a Reader of Pages: The Player of Games (Culture, #2)"
 author: "Iain M. Banks"
 date: 2025-01-14
 type: review

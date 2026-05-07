@@ -1,5 +1,5 @@
 ---
-title: "One Day, Everyone Will Have Always Been Against This"
+title: "Are we the baddies?: One Day, Everyone Will Have Always Been Against This"
 author: "Omar El Akkad"
 date: 2025-08-15
 type: review

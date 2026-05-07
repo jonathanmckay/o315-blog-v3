@@ -1,5 +1,5 @@
 ---
-title: "Moneyball"
+title: "Barbarous Statistics: Moneyball"
 author: "Michael   Lewis"
 date: 2022-01-14
 type: review

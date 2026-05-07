@@ -1,5 +1,5 @@
 ---
-title: "Kingdom of Characters: The Language Revolution That Made China Modern"
+title: "Kingdom of Committee Meetings: Kingdom of Characters: The Language Revolution That Made China Modern"
 author: "Jing Tsu"
 date: 2022-09-13
 type: review

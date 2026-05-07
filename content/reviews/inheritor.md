@@ -1,5 +1,5 @@
 ---
-title: "Inheritor"
+title: "Tea Drinker: Inheritor"
 date: 2025-01-01
 type: review
 media: book
@@ -16,9 +16,7 @@ mentions:
   - "2026/inheritor-foreigner-3.md"
 
 ---
-
-<b> Tea Drinker </b> 
-
+**Tea Drinker**
 Reading Inheritor three years after the first two books, I had to reassemble Cherry’s political map from fragments. Like Bren, I often didn’t understand what was happening.
 
 What holds the book together is the widening field of conflict. On the human side, factions maneuver against each other. On the atevi side, rival interests circle the center. The multilateral tension gives the novel its energy. No single antagonist dominates. Instead, power shifts through conversation, protocol, and small missteps.

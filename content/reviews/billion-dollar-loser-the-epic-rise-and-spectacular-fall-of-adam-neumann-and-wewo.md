@@ -1,5 +1,5 @@
 ---
-title: "Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann and WeWork"
+title: "21st Century Economy: Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann and WeWork"
 author: "Reeves  Wiedeman"
 date: 2021-03-25
 type: review

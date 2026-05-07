@@ -1,5 +1,5 @@
 ---
-title: "The Taking of Getty Oil: Pennzoil, Texaco, and the Takeover Battle That Made History"
+title: "$10b buys a good story: The Taking of Getty Oil: Pennzoil, Texaco, and the Takeover Battle That Made History"
 author: "Steve Coll"
 date: 2021-06-01
 type: review

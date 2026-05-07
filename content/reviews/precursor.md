@@ -1,5 +1,5 @@
 ---
-title: "Precursor"
+title: "Diplomacy, in spaaaaaaace: Precursor"
 author: "CJ Cherryh"
 date: 2025-01-01
 type: review
@@ -21,9 +21,7 @@ Completed: January 1, 2025
 Last edited time: February 17, 2026 3:39 PM
 Status: Reviewed
 Type: Book
-
-<b>Diplomacy, <i>in spaaaaaaace </i></b>
-
+**Diplomacy, in spaaaaaaace**
 Diplomatic crises have been resolved planet-side, so there’s nowhere to go but up. 
 
 Precursor shifts the setting but not the governing concern. Cherryh remains focused on diplomacy as process rather than event, this time filtered through a claustrophobic space faring human civilization and its political consequences. She has some views on the engineering and mechanics involved, but mostly leaves them unexplored. (too bad) 

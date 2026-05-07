@@ -1,5 +1,5 @@
 ---
-title: "How God Changes Your Brain: Breakthrough Findings from a Leading Neuroscientist"
+title: "Mindgames: How God Changes Your Brain: Breakthrough Findings from a Leading Neuroscientist"
 author: "Andrew B. Newberg"
 date: 2021-11-02
 type: review

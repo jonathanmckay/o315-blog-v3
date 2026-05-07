@@ -1,5 +1,5 @@
 ---
-title: "Herbert Hoover: A Life"
+title: "Badass Engineer, Failed President, Subpar Biography: Herbert Hoover: A Life"
 author: "Glen Jeansonne"
 date: 2025-09-17
 type: review

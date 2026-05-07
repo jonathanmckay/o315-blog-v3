@@ -1,5 +1,5 @@
 ---
-title: "The Rise and Fall of the Third Reich: A History of Nazi Germany"
+title: "A Country Gone Mad: The Rise and Fall of the Third Reich: A History of Nazi Germany"
 author: "William L. Shirer"
 date: 2021-03-13
 type: review

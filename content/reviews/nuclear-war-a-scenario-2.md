@@ -1,5 +1,5 @@
 ---
-title: "Nuclear War: A Scenario"
+title: "Gone in 60 Minutes: Nuclear War: A Scenario"
 author: "Annie Jacobsen"
 date: 2024-04-12
 type: review

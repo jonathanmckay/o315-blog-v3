@@ -1,5 +1,5 @@
 ---
-title: "Richistan: A Journey Through the American Wealth Boom and the Lives of the New Rich"
+title: "Rich People Problems.: Richistan: A Journey Through the American Wealth Boom and the Lives of the New Rich"
 author: "Robert    Frank"
 date: 2020-09-07
 type: review

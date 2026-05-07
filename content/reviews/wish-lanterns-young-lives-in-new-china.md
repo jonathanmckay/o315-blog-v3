@@ -1,5 +1,5 @@
 ---
-title: "Wish Lanterns: Young Lives in New China"
+title: "Outdated: Wish Lanterns: Young Lives in New China"
 author: "Alec Ash"
 date: 2022-12-02
 type: review

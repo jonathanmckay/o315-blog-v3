@@ -1,5 +1,5 @@
 ---
-title: "Echo of Worlds (Pandominion, #2)"
+title: "In this Familiar Multiverse: Echo of Worlds (Pandominion, #2)"
 author: "M.R. Carey"
 date: 2024-10-13
 type: review

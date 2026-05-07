@@ -1,5 +1,5 @@
 ---
-title: "Invader (Foreigner, #2)"
+title: "Aliens are Invading! But First, Tea: Invader (Foreigner, #2)"
 author: "C.J. Cherryh"
 date: 2021-06-18
 type: review

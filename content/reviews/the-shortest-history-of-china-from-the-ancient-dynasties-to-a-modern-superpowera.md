@@ -1,5 +1,5 @@
 ---
-title: "The Shortest History of China: From the Ancient Dynasties to a Modern Superpower—A Retelling for Our Times (Shortest History Series)"
+title: "The Shortest Wikipedia Article: The Shortest History of China: From the Ancient Dynasties to a Modern Superpower—A Retelling for Our Times (Shortest History Series)"
 author: "Linda Jaivin"
 date: 2022-11-14
 type: review

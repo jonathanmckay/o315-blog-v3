@@ -1,5 +1,5 @@
 ---
-title: "Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice"
+title: "I Can't Handle the Truth: Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice"
 author: "Shunryu Suzuki"
 date: 2021-01-18
 type: review

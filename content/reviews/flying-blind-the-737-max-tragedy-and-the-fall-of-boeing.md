@@ -1,5 +1,5 @@
 ---
-title: "Flying Blind: The 737 MAX Tragedy and the Fall of Boeing"
+title: "Flying Blinded by Indignation: Flying Blind: The 737 MAX Tragedy and the Fall of Boeing"
 author: "Peter Robison"
 date: 2022-03-27
 type: review

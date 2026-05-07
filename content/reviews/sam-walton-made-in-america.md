@@ -1,5 +1,5 @@
 ---
-title: "Sam Walton: Made In America"
+title: "Companies are Exploration: Sam Walton: Made In America"
 author: "Sam Walton"
 date: 2022-10-22
 type: review

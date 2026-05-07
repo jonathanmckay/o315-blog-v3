@@ -1,5 +1,5 @@
 ---
-title: "The Persians"
+title: "Gods, not Heroes: The Persians"
 author: "Aeschylus"
 date: 2026-01-11
 type: review

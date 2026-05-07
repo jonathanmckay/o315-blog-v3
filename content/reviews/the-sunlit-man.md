@@ -1,5 +1,5 @@
 ---
-title: "The Sunlit Man"
+title: "Entirely Forgettable.: The Sunlit Man"
 author: "Brandon Sanderson"
 date: 2025-01-09
 type: review

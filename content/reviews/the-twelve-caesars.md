@@ -1,5 +1,5 @@
 ---
-title: "The Twelve Caesars"
+title: "Millenia of bad emperors: The Twelve Caesars"
 author: "Suetonius"
 date: 2020-11-24
 type: review

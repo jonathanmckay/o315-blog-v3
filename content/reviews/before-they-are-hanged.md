@@ -1,5 +1,5 @@
 ---
-title: "Before They Are Hanged (The First Law, #2)"
+title: "Middle Book Syndrome: Before They Are Hanged (The First Law, #2)"
 author: "Joe Abercrombie"
 date: 2025-03-24
 type: review

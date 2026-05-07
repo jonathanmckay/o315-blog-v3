@@ -1,5 +1,5 @@
 ---
-title: "Dreadnaught (The Lost Fleet: Beyond the Frontier, #1)"
+title: "Dread not: missing this one: Dreadnaught (The Lost Fleet: Beyond the Frontier, #1)"
 author: "Jack Campbell"
 date: 2025-06-14
 type: review

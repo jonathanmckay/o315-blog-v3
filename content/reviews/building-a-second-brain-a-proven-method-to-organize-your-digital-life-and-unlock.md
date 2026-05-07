@@ -1,5 +1,5 @@
 ---
-title: "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"
+title: "Un-Noteworthy: Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"
 author: "Tiago Forte"
 date: 2023-02-01
 type: review

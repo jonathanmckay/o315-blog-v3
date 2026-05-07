@@ -1,5 +1,5 @@
 ---
-title: "Mercy Kill (Star Wars: X-Wing, #10)"
+title: "Star Wars: Mission Impossible: Mercy Kill (Star Wars: X-Wing, #10)"
 author: "Aaron Allston"
 date: 2022-12-15
 type: review

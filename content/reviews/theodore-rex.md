@@ -1,5 +1,5 @@
 ---
-title: "Theodore Rex"
+title: "Roosevelt Trilogy: The most interesting American: Theodore Rex"
 author: "Edmund  Morris"
 date: 2020-08-18
 type: review

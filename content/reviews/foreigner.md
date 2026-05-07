@@ -1,5 +1,5 @@
 ---
-title: "Foreigner (Foreigner, #1)"
+title: "Wonder in Incomprehension: Foreigner (Foreigner, #1)"
 author: "C.J. Cherryh"
 date: 2021-06-18
 type: review

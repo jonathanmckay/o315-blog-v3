@@ -1,5 +1,5 @@
 ---
-title: "Colonel Roosevelt (Theodore Roosevelt #3)"
+title: "Roosevelt Trilogy: The most interesting American: Colonel Roosevelt (Theodore Roosevelt #3)"
 author: "Edmund  Morris"
 date: 2020-09-05
 type: review

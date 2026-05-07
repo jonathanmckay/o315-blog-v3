@@ -1,5 +1,5 @@
 ---
-title: "Open"
+title: "Topspin and Emotional Spin: Open"
 author: "Andre Agassi"
 date: 2025-04-04
 type: review

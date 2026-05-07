@@ -1,5 +1,5 @@
 ---
-title: "Day Zero (Sea of Rust, #0)"
+title: "A Predictable End... of the World: Day Zero (Sea of Rust, #0)"
 author: "C. Robert Cargill"
 date: 2024-08-18
 type: review

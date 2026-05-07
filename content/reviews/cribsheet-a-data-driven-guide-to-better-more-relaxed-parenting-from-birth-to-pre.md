@@ -1,5 +1,5 @@
 ---
-title: "Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool"
+title: "Science of Newborns Says: It’ll probably be all-right.: Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool"
 author: "Emily Oster"
 date: 2020-10-10
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "Heavenly Tyrant (Iron Widow, #2)"
+title: "Private Property is my Safe Word: Heavenly Tyrant (Iron Widow, #2)"
 author: "Xiran Jay Zhao"
 date: 2025-01-05
 type: review

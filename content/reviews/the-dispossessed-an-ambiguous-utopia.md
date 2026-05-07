@@ -1,5 +1,5 @@
 ---
-title: "The Dispossessed: An Ambiguous Utopia"
+title: "Yearning for Anarchy: The Dispossessed: An Ambiguous Utopia"
 author: "Ursula K. Le Guin"
 date: 2025-10-24
 type: review

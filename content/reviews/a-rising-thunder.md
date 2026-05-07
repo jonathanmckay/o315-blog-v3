@@ -1,5 +1,5 @@
 ---
-title: "A Rising Thunder (Honor Harrington, #13)"
+title: "Exposition Ascendant: A Rising Thunder (Honor Harrington, #13)"
 author: "David  Weber"
 date: 2025-10-05
 type: review

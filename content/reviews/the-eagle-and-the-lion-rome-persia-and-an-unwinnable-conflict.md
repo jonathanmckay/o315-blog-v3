@@ -1,5 +1,5 @@
 ---
-title: "The Eagle and The Lion: Rome, Persia, and an Unwinnable Conflict"
+title: "Imperial Hubris - Antiquity Edition: The Eagle and The Lion: Rome, Persia, and an Unwinnable Conflict"
 author: "Adrian Goldsworthy"
 date: 2024-01-04
 type: review

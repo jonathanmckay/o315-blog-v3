@@ -1,5 +1,5 @@
 ---
-title: "Woodrow Wilson: A Biography"
+title: "The History Scholar Who Lost History: Woodrow Wilson: A Biography"
 author: "John Milton Cooper Jr."
 date: 2025-10-31
 type: review

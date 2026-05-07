@@ -1,5 +1,5 @@
 ---
-title: "Last Argument of Kings (The First Law, #3)"
+title: "Unforgiving Realism: Last Argument of Kings (The First Law, #3)"
 author: "Joe Abercrombie"
 date: 2025-04-04
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "An Ordinary Man:  The Surprising Life and Historic Presidency of Gerald R. Ford"
+title: "Decent Man, Decent Presidency: An Ordinary Man: The Surprising Life and Historic Presidency of Gerald R. Ford"
 author: "Richard Norton Smith"
 date: 2025-06-27
 type: review

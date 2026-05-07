@@ -1,5 +1,5 @@
 ---
-title: "A Deadly Education (The Scholomance, #1)"
+title: "Lost in Calculations: A Deadly Education (The Scholomance, #1)"
 author: "Naomi Novik"
 date: 2020-11-13
 type: review

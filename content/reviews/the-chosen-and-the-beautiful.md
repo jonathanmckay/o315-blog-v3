@@ -1,5 +1,5 @@
 ---
-title: "The Chosen and the Beautiful"
+title: "Origami Permutations on Wealth: The Chosen and the Beautiful"
 author: "Nghi Vo"
 date: 2021-06-05
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "Solaris"
+title: "Postmodern Xenofiction: Solaris"
 author: "Stanisław Lem"
 date: 2025-01-19
 type: review

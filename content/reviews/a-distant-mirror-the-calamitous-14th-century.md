@@ -1,5 +1,5 @@
 ---
-title: "A Distant Mirror: The Calamitous 14th Century"
+title: "Marches of Folly.: A Distant Mirror: The Calamitous 14th Century"
 author: "Barbara W. Tuchman"
 date: 2020-11-09
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "Capitalism in America: An Economic History of the United States"
+title: "Vigorous Self-Congratulation: Capitalism in America: An Economic History of the United States"
 author: "Alan Greenspan"
 date: 2021-05-08
 type: review

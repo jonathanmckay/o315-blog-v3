@@ -1,5 +1,5 @@
 ---
-title: "Carrie Soto Is Back"
+title: "Inner Fictional Game of Tennis: Carrie Soto Is Back"
 author: "Taylor Jenkins Reid"
 date: 2023-07-29
 type: review

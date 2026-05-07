@@ -1,5 +1,5 @@
 ---
-title: "Dawn (Xenogenesis, #1)"
+title: "Aliens should be weird.: Dawn (Xenogenesis, #1)"
 author: "Octavia E. Butler"
 date: 2023-02-19
 type: review

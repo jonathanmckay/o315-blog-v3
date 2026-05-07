@@ -1,5 +1,5 @@
 ---
-title: "The Wars of the Roses: The Fall of the Plantagenets and the Rise of the Tudors"
+title: "Civil War Pattern Matching: The Wars of the Roses: The Fall of the Plantagenets and the Rise of the Tudors"
 author: "Dan Jones"
 date: 2021-09-10
 type: review

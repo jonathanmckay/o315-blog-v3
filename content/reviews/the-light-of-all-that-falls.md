@@ -1,5 +1,5 @@
 ---
-title: "The Light of All That Falls (The Licanius Trilogy, #3)"
+title: "No Lasting Impression: The Light of All That Falls (The Licanius Trilogy, #3)"
 author: "James  Islington"
 date: 2021-07-19
 type: review

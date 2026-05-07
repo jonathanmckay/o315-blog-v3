@@ -1,5 +1,5 @@
 ---
-title: "Build: An Unorthodox Guide to Making Things Worth Making"
+title: "Master's Advice, with a Whiff of Ass: Build: An Unorthodox Guide to Making Things Worth Making"
 author: "Tony Fadell"
 date: 2022-09-25
 type: review

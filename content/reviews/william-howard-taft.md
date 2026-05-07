@@ -1,5 +1,5 @@
 ---
-title: "William Howard Taft (The American Presidents #27)"
+title: "Rule-Follower, Wrong Job: William Howard Taft (The American Presidents #27)"
 author: "Jeffrey Rosen"
 date: 2025-11-29
 type: review

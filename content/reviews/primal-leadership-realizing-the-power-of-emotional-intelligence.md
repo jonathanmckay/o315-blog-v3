@@ -25,8 +25,7 @@ Emotional intelligence for leaders consists of the following:
 4. Relationship management 
 
 Based on this, there are 6 leadership styles, 2 bad and 4 good: 
-
-**Bad:** 
+**Bad:**
 1. Pace-Setting: This really isn't a leadership style, it's how an IC can have impact in the org. An obvious antipattern. 
 2. Command: Perhaps useful as a means to specific objectives, but grating over the long term and generally takes away from the emotional commitment of team members. 
 

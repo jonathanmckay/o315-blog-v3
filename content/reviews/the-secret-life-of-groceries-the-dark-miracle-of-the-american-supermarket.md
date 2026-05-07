@@ -1,5 +1,5 @@
 ---
-title: "The Secret Life of Groceries: The Dark Miracle of the American Supermarket"
+title: "* Focus on where they got access rather than the players that matter.: The Secret Life of Groceries: The Dark Miracle of the American Supermarket"
 author: "Benjamin Lorr"
 date: 2022-01-25
 type: review

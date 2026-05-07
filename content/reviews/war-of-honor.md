@@ -1,5 +1,5 @@
 ---
-title: "War of Honor (Honor Harrington, #10)"
+title: "Diplomacy, Budgets, and Blasters: War of Honor (Honor Harrington, #10)"
 author: "David  Weber"
 date: 2025-09-04
 type: review

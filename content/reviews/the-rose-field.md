@@ -1,5 +1,5 @@
 ---
-title: "The Rose Field (The Book of Dust, #3)"
+title: "Incomplete Selves Across Time: The Rose Field (The Book of Dust, #3)"
 author: "Philip Pullman"
 date: 2025-11-14
 type: review

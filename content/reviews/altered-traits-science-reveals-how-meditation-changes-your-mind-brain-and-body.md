@@ -1,5 +1,5 @@
 ---
-title: "Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body"
+title: "Mind Traits and States: Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body"
 author: "Daniel Goleman"
 date: 2020-08-25
 type: review

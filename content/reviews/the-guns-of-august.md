@@ -1,5 +1,5 @@
 ---
-title: "The Guns of August"
+title: "Tidy Narrative: The Guns of August"
 author: "Barbara W. Tuchman"
 date: 2023-01-14
 type: review

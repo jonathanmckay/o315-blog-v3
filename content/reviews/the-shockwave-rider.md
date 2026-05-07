@@ -1,5 +1,5 @@
 ---
-title: "The Shockwave Rider"
+title: "Proto-cyberpunk that thinks harder than it feels.: The Shockwave Rider"
 author: "John Brunner"
 date: 2026-04-24
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "The Buried: An Archaeology of the Egyptian Revolution"
+title: "Shallow Archeology: The Buried: An Archaeology of the Egyptian Revolution"
 author: "Peter Hessler"
 date: 2021-04-23
 type: review

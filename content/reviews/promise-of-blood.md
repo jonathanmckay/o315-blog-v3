@@ -1,5 +1,5 @@
 ---
-title: "Promise of Blood (Powder Mage, #1)"
+title: "'Most Improved' award slices both ways: Promise of Blood (Powder Mage, #1)"
 author: "Brian  McClellan"
 date: 2021-10-18
 type: review

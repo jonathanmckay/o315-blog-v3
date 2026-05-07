@@ -1,5 +1,5 @@
 ---
-title: "Beacon 23 (Beacon 23, #1-5)"
+title: "Disjointed: Beacon 23 (Beacon 23, #1-5)"
 author: "Hugh Howey"
 date: 2023-07-03
 type: review

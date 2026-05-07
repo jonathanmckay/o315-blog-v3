@@ -1,5 +1,5 @@
 ---
-title: "The History of the Decline and Fall of the Roman Empire (All 6 Volumes)"
+title: "The Forest and the Trees.: The History of the Decline and Fall of the Roman Empire (All 6 Volumes)"
 author: "Edward Gibbon"
 date: 2021-01-04
 type: review

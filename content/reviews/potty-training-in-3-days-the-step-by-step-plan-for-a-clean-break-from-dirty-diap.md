@@ -1,5 +1,5 @@
 ---
-title: "Potty Training in 3 Days: The Step-by-Step Plan for a Clean Break from Dirty Diapers"
+title: "It works, more or less: Potty Training in 3 Days: The Step-by-Step Plan for a Clean Break from Dirty Diapers"
 author: "Brandi Brucks"
 date: 2023-01-28
 type: review

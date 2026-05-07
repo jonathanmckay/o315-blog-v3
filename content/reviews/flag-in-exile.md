@@ -1,5 +1,5 @@
 ---
-title: "Flag in Exile (Honor Harrington, #5)"
+title: "Deus Ex Honor: Flag in Exile (Honor Harrington, #5)"
 author: "David  Weber"
 date: 2025-06-29
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "The Body: A Guide for Occupants"
+title: "Skin Deep isn't always Bad: The Body: A Guide for Occupants"
 author: "Bill Bryson"
 date: 2021-08-26
 type: review

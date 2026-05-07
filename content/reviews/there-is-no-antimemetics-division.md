@@ -1,5 +1,5 @@
 ---
-title: "There Is No Antimemetics Division"
+title: "Perception warped, weaponized, what?: There Is No Antimemetics Division"
 author: "qntm"
 date: 2026-04-12
 type: review

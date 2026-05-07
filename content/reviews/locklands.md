@@ -1,5 +1,5 @@
 ---
-title: "Locklands (The Founders Trilogy, #3)"
+title: "The Colors Mix to Brown: Locklands (The Founders Trilogy, #3)"
 author: "Robert Jackson Bennett"
 date: 2022-07-05
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "The Coming Wave: AI, Power, and Our Future"
+title: "Precedent for Unprecedented: The Coming Wave: AI, Power, and Our Future"
 author: "Mustafa Suleyman"
 date: 2023-10-07
 type: review

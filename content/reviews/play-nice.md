@@ -1,5 +1,5 @@
 ---
-title: "Play Nice"
+title: "Special Sauce, No Recipe: Play Nice"
 author: "Jason Schreier"
 date: 2026-04-01
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "Pretender"
+title: "Re-org-er: Pretender"
 date: 2025-01-01
 type: review
 media: book
@@ -15,9 +15,7 @@ mentions:
   - "2026/destroyer-foreigner-7.md"
 
 ---
-
-**<b>Re-org-er</b>**
-
+**Re-org-er**
 Want to see how power al-Sharaa drove in victory to Damascus, or how a CEO reclaims a stalled culture transformation? Skip the nonfiction. Read *Pretender!* (But certainly don’t read this if you haven’t read the proceeding 7 novels) 
 
 This is the second leg of Bren Cameron’s long logistics return. <i>Destroyer</i> was apex tech: shuttles, starships, and <i>*Skyfall</i>*. This one drops to trains, buses, biplanes. *1917*. 

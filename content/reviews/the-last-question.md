@@ -1,5 +1,5 @@
 ---
-title: "The Last Question"
+title: "Cosmic Letdown: The Last Question"
 author: "Isaac Asimov"
 date: 2026-04-30
 type: review
@@ -7,8 +7,11 @@ media: book
 score: 3
 tags: [hcmc, review]
 source: goodreads
-description: "Cosmic Letdown — A single joke stretched across the heat death of the universe, and the founding myth of a religion nobody meant to start."
-
+related:
+  - "2022/the-gods-themselves.md"
+  - "2015/foundation.md"
+  - "2015/foundation-and-empire.md"
+  - "2015/second-foundation.md"
 ---
 
 **Cosmic Letdown**

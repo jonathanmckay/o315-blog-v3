@@ -1,5 +1,5 @@
 ---
-title: "The Gardener and the Carpenter: What the New Science of Child Development Tells Us About the Relationship Between Parents and Children"
+title: "Hand-Waving Advice: The Gardener and the Carpenter: What the New Science of Child Development Tells Us About the Relationship Between Parents and Children"
 author: "Alison Gopnik"
 date: 2023-07-29
 type: review

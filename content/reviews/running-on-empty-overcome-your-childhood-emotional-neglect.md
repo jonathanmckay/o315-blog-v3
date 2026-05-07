@@ -1,5 +1,5 @@
 ---
-title: "Running on Empty: Overcome Your Childhood Emotional Neglect"
+title: "Generational echoes of neglect.: Running on Empty: Overcome Your Childhood Emotional Neglect"
 author: "Jonice Webb"
 date: 2020-10-24
 type: review

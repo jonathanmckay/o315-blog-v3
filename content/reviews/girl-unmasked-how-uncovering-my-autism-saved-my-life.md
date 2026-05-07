@@ -1,5 +1,5 @@
 ---
-title: "Girl Unmasked: How Uncovering My Autism Saved My Life"
+title: "Diversity over Diagnosis: Girl Unmasked: How Uncovering My Autism Saved My Life"
 author: "Emily Katy"
 date: 2025-03-02
 type: review

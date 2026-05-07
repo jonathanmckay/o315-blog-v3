@@ -1,5 +1,5 @@
 ---
-title: "Pretender (Foreigner, #8)"
+title: "Re-org-er: Pretender (Foreigner, #8)"
 author: "C.J. Cherryh"
 date: 2026-02-16
 type: review

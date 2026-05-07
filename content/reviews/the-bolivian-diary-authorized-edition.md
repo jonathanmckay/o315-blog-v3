@@ -1,5 +1,5 @@
 ---
-title: "The Bolivian Diary: Authorized Edition"
+title: "Camping Trip from Hell: The Bolivian Diary: Authorized Edition"
 author: "Ernesto Che Guevara"
 date: 2022-01-22
 type: review

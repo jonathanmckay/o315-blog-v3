@@ -1,5 +1,5 @@
 ---
-title: "The Short Victorious War (Honor Harrington, #3)"
+title: "The Short Microcosm War: The Short Victorious War (Honor Harrington, #3)"
 author: "David  Weber"
 date: 2025-10-19
 type: review

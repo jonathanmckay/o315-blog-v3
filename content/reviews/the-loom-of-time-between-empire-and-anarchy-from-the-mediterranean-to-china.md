@@ -1,5 +1,5 @@
 ---
-title: "The Loom of Time: Between Empire and Anarchy, from the Mediterranean to China"
+title: "OK, Boomer: The Loom of Time: Between Empire and Anarchy, from the Mediterranean to China"
 author: "Robert D. Kaplan"
 date: 2023-11-03
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "The Decameron"
+title: "I’ll be here all week millennium!: The Decameron"
 author: "Giovanni Boccaccio"
 date: 2024-01-13
 type: review

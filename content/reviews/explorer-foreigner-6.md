@@ -1,5 +1,5 @@
 ---
-title: "Explorer (Foreigner, #6)"
+title: "Diplomancer: Explorer (Foreigner, #6)"
 author: "C.J. Cherryh"
 date: 2026-02-14
 type: review

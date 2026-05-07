@@ -1,5 +1,5 @@
 ---
-title: "An Echo of Things to Come (The Licanius Trilogy, #2)"
+title: "99 Names of Caeden: An Echo of Things to Come (The Licanius Trilogy, #2)"
 author: "James  Islington"
 date: 2021-07-05
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "House of Suns"
+title: "Sex, Politics, Apathy.: House of Suns"
 author: "Alastair Reynolds"
 date: 2021-02-02
 type: review

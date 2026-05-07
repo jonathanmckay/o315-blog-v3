@@ -1,5 +1,5 @@
 ---
-title: "The Strength of the Few (Hierarchy, #2)"
+title: "Will of the Many Worlds: The Strength of the Few (Hierarchy, #2)"
 author: "James  Islington"
 date: 2025-11-18
 type: review

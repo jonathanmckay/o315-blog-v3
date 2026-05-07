@@ -1,5 +1,5 @@
 ---
-title: "Reprogramming the American Dream: From Rural America to Silicon Valley—Making AI Serve Us All"
+title: "Hillbilly Elegi-ble for AI: Reprogramming the American Dream: From Rural America to Silicon Valley—Making AI Serve Us All"
 author: "Kevin    Scott"
 date: 2025-02-07
 type: review

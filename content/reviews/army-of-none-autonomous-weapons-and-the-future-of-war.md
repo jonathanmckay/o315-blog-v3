@@ -1,5 +1,5 @@
 ---
-title: "Army of None: Autonomous Weapons and the Future of War"
+title: "Disappointing.: Army of None: Autonomous Weapons and the Future of War"
 author: "Paul Scharre"
 date: 2019-01-26
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "High Output Management"
+title: "Silicon Valley’s Plato: High Output Management"
 author: "Andrew S. Grove"
 date: 2020-07-16
 type: review

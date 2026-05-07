@@ -1,5 +1,5 @@
 ---
-title: "Saga, Compendium One"
+title: "Down, out, and liberal in the 2010s: Saga, Compendium One"
 author: "Brian K. Vaughan"
 date: 2025-03-20
 type: review

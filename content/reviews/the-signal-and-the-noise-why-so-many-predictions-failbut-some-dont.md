@@ -1,5 +1,5 @@
 ---
-title: "The Signal and the Noise: Why So Many Predictions Fail—But Some Don't"
+title: "The Prior: The Signal and the Noise: Why So Many Predictions Fail—But Some Don't"
 author: "Nate Silver"
 date: 2015-12-28
 type: review

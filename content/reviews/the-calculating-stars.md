@@ -1,5 +1,5 @@
 ---
-title: "The Calculating Stars (Lady Astronaut Universe, #1)"
+title: "Mathletes v. Machos: The Calculating Stars (Lady Astronaut Universe, #1)"
 author: "Mary Robinette Kowal"
 date: 2021-12-17
 type: review

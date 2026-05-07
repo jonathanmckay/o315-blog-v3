@@ -1,5 +1,5 @@
 ---
-title: "The Art of Living: The Classical Manual on Virtue, Happiness and Effectiveness"
+title: "Guests at the Banquet of Life: The Art of Living: The Classical Manual on Virtue, Happiness and Effectiveness"
 author: "Epictetus"
 date: 2020-12-21
 type: review

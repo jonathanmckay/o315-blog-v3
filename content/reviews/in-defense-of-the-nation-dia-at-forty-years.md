@@ -1,7 +1,7 @@
 ---
 title: "In defense of the nation, DIA at forty years"
 author: "Charles Francis Scanlon"
-date: 2008-03-14
+date: 2026-03-14
 type: review
 media: book
 score: 2

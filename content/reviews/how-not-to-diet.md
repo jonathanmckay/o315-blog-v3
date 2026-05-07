@@ -1,5 +1,5 @@
 ---
-title: "How Not to Diet"
+title: "Not Empty Calories: How Not to Diet"
 author: "Michael Greger"
 date: 2020-01-28
 type: review

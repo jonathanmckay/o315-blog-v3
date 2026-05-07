@@ -1,5 +1,5 @@
 ---
-title: "Emergence"
+title: "Not Ready to Leave the Tea Table: Emergence"
 author: "C.J. Cherryh"
 date: 2026-03-20
 type: review

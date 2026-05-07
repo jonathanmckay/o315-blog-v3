@@ -1,5 +1,5 @@
 ---
-title: "What Is Mathematics, Really?"
+title: "Ideal Formulas: What Is Mathematics, Really?"
 author: "Reuben Hersh"
 date: 2022-08-31
 type: review

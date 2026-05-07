@@ -1,5 +1,5 @@
 ---
-title: "The Life of Greece (The Story of Civilization, #2)"
+title: "History does not leap, it saunters.: The Life of Greece (The Story of Civilization, #2)"
 author: "Will Durant"
 date: 2021-03-21
 type: review

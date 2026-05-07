@@ -1,5 +1,5 @@
 ---
-title: "Talon of the Silver Hawk (Conclave of Shadows, #1)"
+title: "剧情盔甲后的很 (The Plot Armor is Too Thick): Talon of the Silver Hawk (Conclave of Shadows, #1)"
 author: "Raymond E. Feist"
 date: 2023-10-03
 type: review

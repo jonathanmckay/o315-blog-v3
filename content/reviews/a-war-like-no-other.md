@@ -1,5 +1,5 @@
 ---
-title: "A War Like No Other"
+title: "Footnotes to Thucydides: A War Like No Other"
 author: "Victor Davis Hanson"
 date: 2026-01-09
 type: review

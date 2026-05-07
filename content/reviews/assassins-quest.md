@@ -1,5 +1,5 @@
 ---
-title: "Assassin's Quest (Farseer Trilogy, #3)"
+title: "Some books that wander are lost: Assassin's Quest (Farseer Trilogy, #3)"
 author: "Robin Hobb"
 date: 2023-05-30
 type: review

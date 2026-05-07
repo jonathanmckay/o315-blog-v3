@@ -1,5 +1,5 @@
 ---
-title: "Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting"
+title: "It’s Me who Decides: Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting"
 author: "Pamela Druckerman"
 date: 2021-01-19
 type: review

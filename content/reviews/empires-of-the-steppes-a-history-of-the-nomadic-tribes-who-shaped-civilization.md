@@ -1,5 +1,5 @@
 ---
-title: "Empires of the Steppes: A History of the Nomadic Tribes Who Shaped Civilization"
+title: "Empires Come and Go: Empires of the Steppes: A History of the Nomadic Tribes Who Shaped Civilization"
 author: "Kenneth W. Harl"
 date: 2024-01-22
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "Age of Myth (The Legends of the First Empire, #1)"
+title: "Disappointingly Bland.: Age of Myth (The Legends of the First Empire, #1)"
 author: "Michael J. Sullivan"
 date: 2019-10-13
 type: review

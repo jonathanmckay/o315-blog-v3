@@ -1,5 +1,5 @@
 ---
-title: "Sea of Tranquility"
+title: "Milquetoast Time Travel: Sea of Tranquility"
 author: "Emily St. John Mandel"
 date: 2025-10-31
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "Fatherhood: A History of Love and Power"
+title: "Absentee Parenting: Fatherhood: A History of Love and Power"
 author: "Augustine Sedgewick"
 date: 2025-06-27
 type: review

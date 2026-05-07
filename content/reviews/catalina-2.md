@@ -1,5 +1,5 @@
 ---
-title: "Catalina"
+title: "Vibes too Heavy I’m Tired: Catalina"
 author: "Karla Cornejo Villavicencio"
 date: 2025-11-28
 type: review

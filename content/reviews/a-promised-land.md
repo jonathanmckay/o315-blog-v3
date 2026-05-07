@@ -1,5 +1,5 @@
 ---
-title: "A Promised Land"
+title: "Director’s Cut: A Promised Land"
 author: "Barack Obama"
 date: 2021-01-23
 type: review

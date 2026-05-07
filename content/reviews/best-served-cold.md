@@ -1,5 +1,5 @@
 ---
-title: "Best Served Cold"
+title: "Heat Before Serving: Best Served Cold"
 author: "Joe Abercrombie"
 date: 2025-01-01
 type: review

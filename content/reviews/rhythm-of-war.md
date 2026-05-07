@@ -1,5 +1,5 @@
 ---
-title: "Rhythm of War (The Stormlight Archive, #4)"
+title: "Rhythm of ‘body keeps score’, followed by the rhythm of bore.: Rhythm of War (The Stormlight Archive, #4)"
 author: "Brandon Sanderson"
 date: 2020-11-26
 type: review

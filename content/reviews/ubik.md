@@ -1,5 +1,5 @@
 ---
-title: "Ubik"
+title: "Decohere: Ubik"
 author: "Philip K. Dick"
 date: 2025-03-08
 type: review

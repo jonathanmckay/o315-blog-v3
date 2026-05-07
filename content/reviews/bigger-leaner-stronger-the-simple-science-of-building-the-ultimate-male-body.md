@@ -1,5 +1,5 @@
 ---
-title: "Bigger Leaner Stronger: The Simple Science of Building the Ultimate Male Body"
+title: "Musclebound Motivation: Bigger Leaner Stronger: The Simple Science of Building the Ultimate Male Body"
 author: "Michael  Matthews"
 date: 2022-10-03
 type: review

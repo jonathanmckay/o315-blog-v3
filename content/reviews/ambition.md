@@ -1,5 +1,5 @@
 ---
-title: "Ambition (Legend of the Galactic Heroes, #2)"
+title: "Literary Junkfood: Ambition (Legend of the Galactic Heroes, #2)"
 author: "Yoshiki Tanaka"
 date: 2022-04-20
 type: review

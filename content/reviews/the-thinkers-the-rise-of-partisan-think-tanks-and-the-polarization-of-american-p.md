@@ -1,5 +1,5 @@
 ---
-title: "The Thinkers: The Rise of Partisan Think Tanks and the Polarization of American Politics (Studies in Postwar American Political Development)"
+title: "Money into Power, via Intelligence: The Thinkers: The Rise of Partisan Think Tanks and the Polarization of American Politics (Studies in Postwar American Political Development)"
 author: "E.J. Fagan"
 date: 2025-02-27
 type: review

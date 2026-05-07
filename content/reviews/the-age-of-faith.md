@@ -1,5 +1,5 @@
 ---
-title: "The Age of Faith (The Story of Civilization, #4)"
+title: "Western civilization is built on a lie.: The Age of Faith (The Story of Civilization, #4)"
 author: "Will Durant"
 date: 2021-05-19
 type: review

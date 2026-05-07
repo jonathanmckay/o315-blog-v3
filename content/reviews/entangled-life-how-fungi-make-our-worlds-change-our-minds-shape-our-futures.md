@@ -1,5 +1,5 @@
 ---
-title: "Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures"
+title: "Overly Entangled: Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures"
 author: "Merlin Sheldrake"
 date: 2021-08-08
 type: review

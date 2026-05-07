@@ -1,6 +1,6 @@
 ---
 date: 2021-01-01
-title: "Chinese Breeze Graded Reader Series: Level 2: 500 Word Level: 妈妈和儿子: Māma hé érzi: Mother and Son"
+title: "很没有意思。 为什么我应该学“蒙太奇”？ 我真的不知到。: Chinese Breeze Graded Reader Series: Level 2: 500 Word Level: 妈妈和儿子: Māma hé érzi: Mother and Son"
 author: "Yuehua Liu"
 type: review
 media: book

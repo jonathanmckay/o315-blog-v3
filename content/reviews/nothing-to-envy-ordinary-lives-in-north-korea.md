@@ -1,5 +1,5 @@
 ---
-title: "Nothing to Envy: Ordinary Lives in North Korea"
+title: "Dystopian Scifi: Nothing to Envy: Ordinary Lives in North Korea"
 author: "Barbara Demick"
 date: 2023-02-27
 type: review

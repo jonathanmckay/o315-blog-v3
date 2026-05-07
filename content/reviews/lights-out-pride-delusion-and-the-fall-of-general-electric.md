@@ -1,5 +1,5 @@
 ---
-title: "Lights Out: Pride, Delusion, and the Fall of General Electric"
+title: "GE- Not the Company we Want, but the Company We Deserve: Lights Out: Pride, Delusion, and the Fall of General Electric"
 author: "Thomas Gryta"
 date: 2021-01-13
 type: review

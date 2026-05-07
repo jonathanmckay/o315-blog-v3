@@ -1,5 +1,5 @@
 ---
-title: "The Chancellor: The Remarkable Odyssey of Angela Merkel"
+title: "DNF @ 61%: The Chancellor: The Remarkable Odyssey of Angela Merkel"
 author: "Kati Marton"
 date: 2022-06-12
 type: review

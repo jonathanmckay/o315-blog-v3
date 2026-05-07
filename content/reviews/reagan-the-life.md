@@ -1,5 +1,5 @@
 ---
-title: "Reagan: The Life"
+title: "Comfortably Aloof and Right (wing): Reagan: The Life"
 author: "H.W. Brands"
 date: 2025-07-16
 type: review

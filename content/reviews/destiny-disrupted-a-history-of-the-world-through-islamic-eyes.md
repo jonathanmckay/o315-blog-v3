@@ -1,5 +1,5 @@
 ---
-title: "Destiny Disrupted: A History of the World Through Islamic Eyes"
+title: "Civilization is Just Another Tale...: Destiny Disrupted: A History of the World Through Islamic Eyes"
 author: "Tamim Ansary"
 date: 2020-10-05
 type: review

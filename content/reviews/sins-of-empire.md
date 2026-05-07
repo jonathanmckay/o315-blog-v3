@@ -1,5 +1,5 @@
 ---
-title: "Sins of Empire (Gods of Blood and Powder, #1)"
+title: "Sins of Fantasy Novels to Support Authors Surviving in a Capitalist System: Sins of Empire (Gods of Blood and Powder, #1)"
 author: "Brian  McClellan"
 date: 2021-09-25
 type: review

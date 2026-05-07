@@ -1,5 +1,5 @@
 ---
-title: "Destroyer (Foreigner, #7)"
+title: "Layover-er: Destroyer (Foreigner, #7)"
 author: "C.J. Cherryh"
 date: 2026-02-15
 type: review

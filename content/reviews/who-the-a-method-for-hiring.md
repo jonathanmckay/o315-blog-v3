@@ -1,5 +1,5 @@
 ---
-title: "Who: The A Method for Hiring"
+title: "Voodoo Hiring: Who: The A Method for Hiring"
 author: "Geoff Smart"
 date: 2021-04-23
 type: review

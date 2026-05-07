@@ -1,5 +1,5 @@
 ---
-title: "The Shadow of What Was Lost (The Licanius Trilogy, #1)"
+title: "Fantasy Soup: The Shadow of What Was Lost (The Licanius Trilogy, #1)"
 author: "James  Islington"
 date: 2021-07-01
 type: review

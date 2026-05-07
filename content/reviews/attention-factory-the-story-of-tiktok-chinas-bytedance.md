@@ -1,5 +1,5 @@
 ---
-title: "Attention Factory: The Story of TikTok & China’s ByteDance"
+title: "Red Ocean Strategy: Attention Factory: The Story of TikTok & China’s ByteDance"
 author: "Matthew  Brennan"
 date: 2021-04-03
 type: review

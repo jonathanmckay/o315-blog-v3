@@ -1,5 +1,5 @@
 ---
-title: "The Anxious Generation: How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness"
+title: "The Coddling of the Online Mind: The Anxious Generation: How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness"
 author: "Jonathan Haidt"
 date: 2025-01-09
 type: review

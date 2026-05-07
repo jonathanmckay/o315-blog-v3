@@ -1,5 +1,5 @@
 ---
-title: "Wrath of Empire (Gods of Blood and Powder, #2)"
+title: "Defeat is More Interesting: Wrath of Empire (Gods of Blood and Powder, #2)"
 author: "Brian  McClellan"
 date: 2021-10-09
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "Young China: How the Restless Generation Will Change Their Country and the World"
+title: "Pivotal Generation: Young China: How the Restless Generation Will Change Their Country and the World"
 author: "Zak Dychtwald"
 date: 2021-04-03
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "Jericho Season 3 (Jericho Graphic Novels #1)"
+title: "Dys-trope-ia: Jericho Season 3 (Jericho Graphic Novels #1)"
 author: "Dan Shotz"
 date: 2021-04-06
 type: review

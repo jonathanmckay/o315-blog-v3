@@ -1,5 +1,5 @@
 ---
-title: "The Rise of Theodore Roosevelt (Theodore Roosevelt, #1)"
+title: "Roosevelt Trilogy: The most interesting American: The Rise of Theodore Roosevelt (Theodore Roosevelt, #1)"
 author: "Edmund  Morris"
 date: 2020-08-08
 type: review

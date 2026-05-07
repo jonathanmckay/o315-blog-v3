@@ -1,5 +1,5 @@
 ---
-title: "Deng Xiaoping and the Transformation of China"
+title: "History's Finest Bureaucrat: Deng Xiaoping and the Transformation of China"
 author: "Ezra F. Vogel"
 date: 2022-01-28
 type: review

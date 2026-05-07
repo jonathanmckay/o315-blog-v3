@@ -1,5 +1,5 @@
 ---
-title: "The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI"
+title: "Wired for Thought: The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI"
 author: "Fei-Fei Li"
 date: 2025-03-07
 type: review

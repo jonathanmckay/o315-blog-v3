@@ -1,5 +1,5 @@
 ---
-title: "If Not, Winter: Fragments of Sappho"
+title: "Sweet Morsel: If Not, Winter: Fragments of Sappho"
 author: "Sappho"
 date: 2021-01-13
 type: review

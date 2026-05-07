@@ -1,5 +1,5 @@
 ---
-title: "Dogs of War (Dogs of War, #1)"
+title: "What it Takes to be a Good Dog: Dogs of War (Dogs of War, #1)"
 author: "Adrian Tchaikovsky"
 date: 2025-05-24
 type: review

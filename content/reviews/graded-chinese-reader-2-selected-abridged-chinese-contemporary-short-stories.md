@@ -1,5 +1,5 @@
 ---
-title: "Graded Chinese Reader 2:  Selected, Abridged Chinese Contemporary Short Stories"
+title: "Graded Chinese Reader 2: Selected, Abridged Chinese Contemporary Short Stories"
 author: "Shi Ji"
 date: 2012-03-26
 type: review

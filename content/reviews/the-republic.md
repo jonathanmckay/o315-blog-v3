@@ -1,5 +1,5 @@
 ---
-title: "The Republic"
+title: "What is Love Justice? (baby don’t ask me... no more): The Republic"
 author: "Plato"
 date: 2022-03-10
 type: review

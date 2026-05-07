@@ -1,5 +1,5 @@
 ---
-title: "Energy and Civilization: A History"
+title: "Big History Done Right.: Energy and Civilization: A History"
 author: "Vaclav Smil"
 date: 2019-11-07
 type: review

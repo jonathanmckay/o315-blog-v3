@@ -1,5 +1,5 @@
 ---
-title: "Mission of Honor (Honor Harrington, #12)"
+title: "Finally Worth the War: Mission of Honor (Honor Harrington, #12)"
 author: "David  Weber"
 date: 2025-10-03
 type: review

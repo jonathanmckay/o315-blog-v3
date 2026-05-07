@@ -1,5 +1,5 @@
 ---
-title: "Ocean's Godori"
+title: "Instant Noodles in Space: Ocean's Godori"
 date: 2025-11-01
 type: review
 media: book

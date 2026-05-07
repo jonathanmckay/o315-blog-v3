@@ -1,7 +1,7 @@
 ---
 title: "The Lost Colony (Artemis Fowl, #5)"
 author: "Eoin Colfer"
-date: 2008-03-14
+date: 2026-03-14
 type: review
 media: book
 score: 3

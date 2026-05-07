@@ -1,5 +1,5 @@
 ---
-title: "Brain Rules for Baby: How to Raise a Smart and Happy Child from Zero to Five"
+title: "Science Says... Emotions Matter: Brain Rules for Baby: How to Raise a Smart and Happy Child from Zero to Five"
 author: "John Medina"
 date: 2021-01-25
 type: review

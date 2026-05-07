@@ -1,5 +1,5 @@
 ---
-title: "Amazon Unbound: Jeff Bezos and the Invention of a Global Empire"
+title: "Everything Store -> Everything Platform: Amazon Unbound: Jeff Bezos and the Invention of a Global Empire"
 author: "Brad Stone"
 date: 2021-06-05
 type: review

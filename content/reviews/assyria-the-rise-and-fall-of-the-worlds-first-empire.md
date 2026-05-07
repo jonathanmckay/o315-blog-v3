@@ -1,5 +1,5 @@
 ---
-title: "Assyria: The Rise and Fall of the World’s First Empire"
+title: "Adventures in history and the land of Nod: Assyria: The Rise and Fall of the World’s First Empire"
 author: "Eckart Frahm"
 date: 2024-04-25
 type: review

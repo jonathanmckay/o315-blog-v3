@@ -1,5 +1,5 @@
 ---
-title: "The Great Escape: Health, Wealth, and the Origins of Inequality"
+title: "Dismal Science: The Great Escape: Health, Wealth, and the Origins of Inequality"
 author: "Angus Deaton"
 date: 2021-02-01
 type: review

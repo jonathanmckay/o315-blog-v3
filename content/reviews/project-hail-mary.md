@@ -1,5 +1,5 @@
 ---
-title: "Project Hail Mary"
+title: "Space Sucks, Science is Fun: Project Hail Mary"
 author: "Andy Weir"
 date: 2021-08-04
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "A Desolation Called Peace (Teixcalaan, #2)"
+title: "Body Politic: A Desolation Called Peace (Teixcalaan, #2)"
 author: "Arkady Martine"
 date: 2021-04-12
 type: review

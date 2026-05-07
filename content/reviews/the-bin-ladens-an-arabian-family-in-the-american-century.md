@@ -1,5 +1,5 @@
 ---
-title: "The Bin Ladens: An Arabian Family in the American Century"
+title: "Wealthy Black Sheep: The Bin Ladens: An Arabian Family in the American Century"
 author: "Steve Coll"
 date: 2021-05-30
 type: review

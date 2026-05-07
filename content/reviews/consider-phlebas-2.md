@@ -1,5 +1,5 @@
 ---
-title: "Consider Phlebas (Culture, #1)"
+title: "Typical Action Movie Book: Consider Phlebas (Culture, #1)"
 author: "Iain M. Banks"
 date: 2023-03-28
 type: review

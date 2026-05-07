@@ -1,5 +1,5 @@
 ---
-title: "Precursor (Foreigner, #4)"
+title: "Diplomacy, *in spaaaaaaace*: Precursor (Foreigner, #4)"
 author: "C.J. Cherryh"
 date: 2026-02-09
 type: review

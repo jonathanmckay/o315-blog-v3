@@ -1,5 +1,5 @@
 ---
-title: "Little Soldiers: An American Boy, a Chinese School, and the Global Race to Achieve"
+title: "Work = Success: Little Soldiers: An American Boy, a Chinese School, and the Global Race to Achieve"
 author: "Lenora Chu"
 date: 2020-11-29
 type: review

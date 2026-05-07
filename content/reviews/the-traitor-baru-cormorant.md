@@ -1,5 +1,5 @@
 ---
-title: "The Traitor Baru Cormorant (The Masquerade, #1)"
+title: "Fundamental Decision Making Error: The Traitor Baru Cormorant (The Masquerade, #1)"
 author: "Seth Dickinson"
 date: 2021-05-23
 type: review

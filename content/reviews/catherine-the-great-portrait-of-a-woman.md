@@ -1,5 +1,5 @@
 ---
-title: "Catherine the Great: Portrait of a Woman"
+title: "Power Politics: Catherine the Great: Portrait of a Woman"
 author: "Robert K. Massie"
 date: 2021-03-22
 type: review

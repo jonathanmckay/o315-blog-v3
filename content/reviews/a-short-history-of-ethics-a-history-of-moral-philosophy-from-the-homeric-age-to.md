@@ -1,5 +1,5 @@
 ---
-title: "A Short History of Ethics: A History of Moral Philosophy from the Homeric Age to the Twentieth Century"
+title: "Ships Passing in the Night: A Short History of Ethics: A History of Moral Philosophy from the Homeric Age to the Twentieth Century"
 author: "Alasdair MacIntyre"
 date: 2022-07-25
 type: review

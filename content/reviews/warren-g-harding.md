@@ -1,5 +1,5 @@
 ---
-title: "Warren G. Harding (The American Presidents, #29)"
+title: "Press president, buried by press: Warren G. Harding (The American Presidents, #29)"
 author: "John W. Dean"
 date: 2025-11-20
 type: review

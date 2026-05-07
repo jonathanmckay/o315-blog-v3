@@ -1,6 +1,6 @@
 ---
 date: 2022-01-01
-title: "2022 on Goodreads"
+title: "2022 in Books: 2022 on Goodreads"
 author: "Various"
 type: review
 media: book

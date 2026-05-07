@@ -1,5 +1,5 @@
 ---
-title: "Summer Frost (Forward Collection, #2)"
+title: "2021 #20: Hero's AI Journey: Summer Frost (Forward Collection, #2)"
 author: "Blake Crouch"
 date: 2021-02-14
 type: review

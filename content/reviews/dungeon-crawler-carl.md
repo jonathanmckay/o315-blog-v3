@@ -1,5 +1,5 @@
 ---
-title: "Dungeon Crawler Carl (Dungeon Crawler Carl, #1)"
+title: "Ingredients (by weight): Dungeon Crawler Carl (Dungeon Crawler Carl, #1)"
 author: "Matt Dinniman"
 date: 2025-10-18
 type: review
@@ -19,8 +19,7 @@ mentions:
   - "2014/ready-player-one.md"
 
 ---
-
-** Ingredients (by weight): **
+**Ingredients (by weight):**
 1 part Diablo by Blizzard 
 1 part Hunger Games 
 1 part Ready Player One 

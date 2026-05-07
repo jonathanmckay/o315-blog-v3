@@ -1,5 +1,5 @@
 ---
-title: "Blood over Bright Haven"
+title: "Burn It Down, Lightly: Blood over Bright Haven"
 author: "M.L. Wang"
 date: 2025-09-16
 type: review

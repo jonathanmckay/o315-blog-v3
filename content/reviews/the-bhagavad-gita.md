@@ -1,5 +1,5 @@
 ---
-title: "The Bhagavad Gita"
+title: "Divine Dark Night of the Soul: The Bhagavad Gita"
 author: "Krishna-Dwaipayana Vyasa"
 date: 2022-07-27
 type: review

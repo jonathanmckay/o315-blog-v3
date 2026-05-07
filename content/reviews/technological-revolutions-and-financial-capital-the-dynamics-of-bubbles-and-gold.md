@@ -1,5 +1,5 @@
 ---
-title: "Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages"
+title: "AI Winter is Coming: Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages"
 author: "Carlota Pérez"
 date: 2025-03-27
 type: review

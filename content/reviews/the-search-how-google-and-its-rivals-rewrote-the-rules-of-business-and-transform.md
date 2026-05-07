@@ -1,5 +1,5 @@
 ---
-title: "The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture"
+title: "Google OpenAI and the Red Sea: The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture"
 author: "John Battelle"
 date: 2023-08-20
 type: review

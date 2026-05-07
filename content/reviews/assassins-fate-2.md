@@ -1,5 +1,5 @@
 ---
-title: "Assassin's Fate (The Fitz and the Fool, #3)"
+title: "Whispers louder than clash of swords: Assassin's Fate (The Fitz and the Fool, #3)"
 author: "Robin Hobb"
 date: 2025-12-08
 type: review

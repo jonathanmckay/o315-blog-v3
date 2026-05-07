@@ -1,5 +1,5 @@
 ---
-title: "The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire"
+title: "Chaos is a Ladder: The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire"
 author: "William Dalrymple"
 date: 2021-04-13
 type: review

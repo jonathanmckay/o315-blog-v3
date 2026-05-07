@@ -1,5 +1,5 @@
 ---
-title: "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change"
+title: "Recursive Programming Management: The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change"
 author: "Camille Fournier"
 date: 2020-01-28
 type: review

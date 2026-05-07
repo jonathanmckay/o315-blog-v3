@@ -1,5 +1,5 @@
 ---
-title: "Blood, Sweat, and Pixels"
+title: "Grind, Ship, Repeat. Repeat. Repeat.: Blood, Sweat, and Pixels"
 author: "Jason Schreier"
 date: 2026-03-17
 type: review

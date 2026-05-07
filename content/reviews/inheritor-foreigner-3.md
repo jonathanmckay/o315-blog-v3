@@ -1,5 +1,5 @@
 ---
-title: "Inheritor (Foreigner, #3)"
+title: "Tea Drinker: Inheritor (Foreigner, #3)"
 author: "C.J. Cherryh"
 date: 2026-02-09
 type: review

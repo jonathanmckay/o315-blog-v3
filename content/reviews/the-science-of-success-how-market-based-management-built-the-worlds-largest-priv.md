@@ -1,5 +1,5 @@
 ---
-title: "The Science of Success: How Market-Based Management Built the World's Largest Private Company"
+title: "Applied Hayek: The Science of Success: How Market-Based Management Built the World's Largest Private Company"
 author: "Charles G. Koch"
 date: 2022-03-31
 type: review

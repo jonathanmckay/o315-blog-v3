@@ -1,5 +1,5 @@
 ---
-title: "Best Ever Apartment Syndication Book"
+title: "Exaggerated, but Useful: Best Ever Apartment Syndication Book"
 author: "Joe Fairless"
 date: 2021-04-03
 type: review

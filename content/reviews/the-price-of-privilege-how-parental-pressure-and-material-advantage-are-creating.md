@@ -1,5 +1,5 @@
 ---
-title: "The Price of Privilege: How Parental Pressure and Material Advantage Are Creating a Generation of Disconnected and Unhappy Kids"
+title: "Trophy Kids and Other Casualties: The Price of Privilege: How Parental Pressure and Material Advantage Are Creating a Generation of Disconnected and Unhappy Kids"
 author: "Madeline Levine"
 date: 2025-06-28
 type: review

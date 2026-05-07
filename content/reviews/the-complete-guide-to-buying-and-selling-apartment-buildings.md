@@ -1,5 +1,5 @@
 ---
-title: "The Complete Guide to Buying and Selling Apartment Buildings"
+title: "Incomplete, Incorrect: The Complete Guide to Buying and Selling Apartment Buildings"
 author: "Steve Berges"
 date: 2021-04-10
 type: review

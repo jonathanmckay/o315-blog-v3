@@ -1,5 +1,5 @@
 ---
-title: "FDR"
+title: "FDR in Soft Focus: FDR"
 author: "Jean Edward Smith"
 date: 2025-08-10
 type: review

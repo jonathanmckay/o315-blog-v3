@@ -1,5 +1,5 @@
 ---
-title: "The Age of Revolution, 1789–1848"
+title: "Birth of Modernity: The Age of Revolution, 1789–1848"
 author: "Eric J. Hobsbawm"
 date: 2020-06-17
 type: review

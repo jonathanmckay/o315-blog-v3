@@ -1,7 +1,7 @@
 ---
 title: "The Lexus and the Olive Tree"
 author: "Thomas L. Friedman"
-date: 2008-03-14
+date: 2026-03-14
 type: review
 media: book
 tags: [hcmc, review, business, history, war]

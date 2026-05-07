@@ -1,5 +1,5 @@
 ---
-title: "Billionaire Wilderness: The Ultra-Wealthy and the Remaking of the American West"
+title: "Nuanced Selfishness: Billionaire Wilderness: The Ultra-Wealthy and the Remaking of the American West"
 author: "Justin  Farrell"
 date: 2021-10-24
 type: review

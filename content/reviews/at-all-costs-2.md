@@ -1,5 +1,5 @@
 ---
-title: "At All Costs (Honor Harrington, #11)"
+title: "Domestic Drudgery, Galactic Glory: At All Costs (Honor Harrington, #11)"
 author: "David  Weber"
 date: 2025-09-29
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "Free to Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life"
+title: "Playground Rules: Playgrounds Rule: Free to Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life"
 author: "Peter O. Gray"
 date: 2023-08-03
 type: review

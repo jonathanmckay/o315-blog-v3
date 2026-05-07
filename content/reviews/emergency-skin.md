@@ -1,5 +1,5 @@
 ---
-title: "Emergency Skin (Forward Collection, #3)"
+title: "2021 #19: Path Dependency: Emergency Skin (Forward Collection, #3)"
 author: "N.K. Jemisin"
 date: 2021-02-14
 type: review

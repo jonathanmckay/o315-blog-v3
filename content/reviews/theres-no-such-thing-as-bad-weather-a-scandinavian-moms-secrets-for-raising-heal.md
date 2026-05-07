@@ -1,5 +1,5 @@
 ---
-title: "There's No Such Thing as Bad Weather: A Scandinavian Mom's Secrets for Raising Healthy, Resilient, and Confident Kids (from Friluftsliv to Hygge)"
+title: "Free Play: There's No Such Thing as Bad Weather: A Scandinavian Mom's Secrets for Raising Healthy, Resilient, and Confident Kids (from Friluftsliv to Hygge)"
 author: "Linda Åkeson McGurk"
 date: 2021-01-05
 type: review

@@ -1,5 +1,5 @@
 ---
-title: "The Korean War"
+title: "2nd Sino-American War: The Korean War"
 author: "Max Hastings"
 date: 2023-02-28
 type: review

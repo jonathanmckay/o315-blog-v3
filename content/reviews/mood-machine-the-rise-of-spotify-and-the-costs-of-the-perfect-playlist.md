@@ -1,5 +1,5 @@
 ---
-title: "Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist"
+title: "Hello Profits My Old Friend: Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist"
 author: "Liz Pelly"
 date: 2025-01-26
 type: review

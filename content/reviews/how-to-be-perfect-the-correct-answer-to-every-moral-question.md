@@ -1,5 +1,5 @@
 ---
-title: "How to Be Perfect: The Correct Answer to Every Moral Question"
+title: "Gateway Drug Philosophy: How to Be Perfect: The Correct Answer to Every Moral Question"
 author: "Michael Schur"
 date: 2022-07-26
 type: review

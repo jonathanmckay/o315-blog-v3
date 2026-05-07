@@ -1,5 +1,5 @@
 ---
-title: "Mistborn: The Final Empire (Mistborn, #1)"
+title: "3.5 stars: Mistborn: The Final Empire (Mistborn, #1)"
 author: "Brandon Sanderson"
 date: 2022-09-05
 type: review

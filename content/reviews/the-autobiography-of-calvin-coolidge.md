@@ -1,5 +1,5 @@
 ---
-title: "The Autobiography of Calvin Coolidge"
+title: "The Most Boring President: The Autobiography of Calvin Coolidge"
 author: "Calvin Coolidge"
 date: 2025-10-18
 type: review

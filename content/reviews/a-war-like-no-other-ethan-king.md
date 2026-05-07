@@ -1,5 +1,5 @@
 ---
-title: "A War Like No other"
+title: "Footnotes to Thucydides: A War Like No other"
 date: 2025-01-01
 type: review
 media: book

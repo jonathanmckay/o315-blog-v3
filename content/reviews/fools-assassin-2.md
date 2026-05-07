@@ -1,5 +1,5 @@
 ---
-title: "Fool's Assassin (Fitz and the Fool, #1)"
+title: "Quiet Magic, Quiet Ruin: Fool's Assassin (Fitz and the Fool, #1)"
 author: "Robin Hobb"
 date: 2025-11-25
 type: review

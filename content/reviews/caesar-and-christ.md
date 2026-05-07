@@ -1,5 +1,5 @@
 ---
-title: "Caesar and Christ (Story of Civilization, #3)"
+title: "History of Flesh and Bone: Caesar and Christ (Story of Civilization, #3)"
 author: "Will Durant"
 date: 2021-04-21
 type: review

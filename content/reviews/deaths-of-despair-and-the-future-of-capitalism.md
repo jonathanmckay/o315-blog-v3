@@ -1,5 +1,5 @@
 ---
-title: "Deaths of Despair and the Future of Capitalism"
+title: "American Carnage.: Deaths of Despair and the Future of Capitalism"
 author: "Anne Case"
 date: 2020-06-10
 type: review

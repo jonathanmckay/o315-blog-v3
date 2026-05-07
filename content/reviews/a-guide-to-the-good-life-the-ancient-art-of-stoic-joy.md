@@ -1,5 +1,5 @@
 ---
-title: "A Guide to the Good Life: The Ancient Art of Stoic Joy"
+title: "Equanimous Two Stars: A Guide to the Good Life: The Ancient Art of Stoic Joy"
 author: "William B. Irvine"
 date: 2021-04-28
 type: review

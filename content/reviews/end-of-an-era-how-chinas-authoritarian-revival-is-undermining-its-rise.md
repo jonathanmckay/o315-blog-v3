@@ -1,5 +1,5 @@
 ---
-title: "End of an Era: How China's Authoritarian Revival is Undermining Its Rise"
+title: "Reversion to the Mean: End of an Era: How China's Authoritarian Revival is Undermining Its Rise"
 author: "Carl Minzner"
 date: 2021-01-06
 type: review

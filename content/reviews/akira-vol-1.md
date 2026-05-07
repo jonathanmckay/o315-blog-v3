@@ -1,5 +1,5 @@
 ---
-title: "Akira, Vol. 1"
+title: "Not Enough for One Sitting: Akira, Vol. 1"
 author: "Katsuhiro Otomo"
 date: 2025-04-23
 type: review

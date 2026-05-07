@@ -1,5 +1,5 @@
 ---
-title: "Strange Stones: Dispatches from East and West"
+title: "Refreshing.: Strange Stones: Dispatches from East and West"
 date: 2015-07-27
 author: "Peter Hessler"
 type: review

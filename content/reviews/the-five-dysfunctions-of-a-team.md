@@ -1,5 +1,5 @@
 ---
-title: "The Five Dysfunctions of a Team"
+title: "5 Dysfunctions of a Framework: The Five Dysfunctions of a Team"
 author: "Patrick Lencioni"
 date: 2020-11-21
 type: review

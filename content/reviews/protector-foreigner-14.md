@@ -1,5 +1,5 @@
 ---
-title: "Protector (Foreigner, #14)"
+title: "No Cake, Still Interesting: Protector (Foreigner, #14)"
 author: "C.J. Cherryh"
 date: 2026-03-06
 type: review

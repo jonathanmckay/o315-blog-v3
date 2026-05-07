@@ -1,5 +1,5 @@
 ---
-title: "Rousseau and Revolution (The Story of Civilization, #10)"
+title: "History's Dictionary: Rousseau and Revolution (The Story of Civilization, #10)"
 author: "Will Durant"
 date: 2022-01-02
 type: review

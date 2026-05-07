@@ -1,5 +1,5 @@
 ---
-title: "The Cold Millions"
+title: "Class struggle isn't new: The Cold Millions"
 author: "Jess Walter"
 date: 2020-11-22
 type: review

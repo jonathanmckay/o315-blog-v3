@@ -1,5 +1,5 @@
 ---
-title: "Black Water Sister"
+title: "Offending the Culture Gods in Reassimilation: Black Water Sister"
 author: "Zen Cho"
 date: 2021-11-02
 type: review

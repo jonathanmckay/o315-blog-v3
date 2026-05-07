@@ -1,5 +1,5 @@
 ---
-title: "What's Going On in There? How the Brain and Mind Develop in the First Five Years of Life"
+title: "First Principles of Parenting: What's Going On in There? How the Brain and Mind Develop in the First Five Years of Life"
 author: "Lise Eliot"
 date: 2021-01-11
 type: review

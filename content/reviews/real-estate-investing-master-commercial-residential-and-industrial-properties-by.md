@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Investing: Master Commercial, Residential and Industrial Properties by Understanding Market Signs, Rental Property Analysis and Negotiation Strategies"
+title: "Shaky Foundations: Real Estate Investing: Master Commercial, Residential and Industrial Properties by Understanding Market Signs, Rental Property Analysis and Negotiation Strategies"
 date: 2021-03-22
 author: "Michael K. Brown"
 type: review

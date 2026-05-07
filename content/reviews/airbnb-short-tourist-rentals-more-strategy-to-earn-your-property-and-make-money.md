@@ -1,6 +1,6 @@
 ---
 date: 2020-01-01
-title: "Airbnb, Short & Tourist Rentals: More Strategy To Earn Your Property And Make Money With Airbnb, Short And Tourist Rentals a Fast And Simple Business in Real Estate"
+title: "Slapdash: Airbnb, Short & Tourist Rentals: More Strategy To Earn Your Property And Make Money With Airbnb, Short And Tourist Rentals a Fast And Simple Business in Real Estate"
 author: "Mark Auklund"
 type: review
 media: book

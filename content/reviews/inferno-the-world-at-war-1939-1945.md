@@ -1,5 +1,5 @@
 ---
-title: "Inferno: The World at War, 1939-1945"
+title: "Failed Gambits to Suicide: Inferno: The World at War, 1939-1945"
 author: "Max Hastings"
 date: 2023-02-15
 type: review

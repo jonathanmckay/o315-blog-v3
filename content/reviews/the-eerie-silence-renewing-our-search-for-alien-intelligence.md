@@ -1,5 +1,5 @@
 ---
-title: "The Eerie Silence: Renewing Our Search for Alien Intelligence"
+title: "Somewhere between zero and infinity: The Eerie Silence: Renewing Our Search for Alien Intelligence"
 author: "Paul C.W. Davies"
 date: 2021-01-07
 type: review

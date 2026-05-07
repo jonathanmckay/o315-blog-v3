@@ -1,5 +1,5 @@
 ---
-title: "Battle Hymn of the Tiger Mother"
+title: "Work = Success: Battle Hymn of the Tiger Mother"
 author: "Amy  Chua"
 date: 2020-11-30
 type: review

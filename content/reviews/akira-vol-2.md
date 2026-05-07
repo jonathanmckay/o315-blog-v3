@@ -1,5 +1,5 @@
 ---
-title: "Akira, Vol. 2"
+title: "Blockbuster of the 80’s: Akira, Vol. 2"
 author: "Katsuhiro Otomo"
 date: 2025-05-01
 type: review

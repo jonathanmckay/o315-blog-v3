@@ -1,5 +1,5 @@
 ---
-title: "The Devils"
+title: "Cards on the Table: The Devils"
 author: "Joe Abercrombie"
 date: 2025-01-01
 type: review
@@ -33,9 +33,7 @@ Completed: January 1, 2025
 Last edited time: January 11, 2026 7:41 AM
 Status: Reviewed
 Type: Book
-
-<b>Cards on the Table</b>
-
+**Cards on the Table**
 The Devils sits halfway between the grimdark First Law trilogy and the gamified chaos of Dungeon Crawler Carl. It may have been deliberate and more popular, but is not entirely to my taste.
 
 The book leans hard on the found-family dynamic. The result is serviceable cohesion rather than earned intimacy. With a large ensemble, the book prioritizes interesting combinations of characters over sustained attention to any one of them. That tradeoff makes sense in a long-running series; it’s harder to pull off cleanly in a single novel. The focus fragments, and no single arc quite takes hold.

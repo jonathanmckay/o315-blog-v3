@@ -1,5 +1,5 @@
 ---
-title: "Islamic Empires: The Cities that Shaped Civilization: From Mecca to Dubai"
+title: "Nomadic Empires: Islamic Empires: The Cities that Shaped Civilization: From Mecca to Dubai"
 author: "Justin Marozzi"
 date: 2021-01-25
 type: review

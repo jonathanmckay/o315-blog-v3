@@ -1,5 +1,5 @@
 ---
-title: "Roadside Picnic"
+title: "Aliens don't care: Roadside Picnic"
 author: "Arkady Strugatsky"
 date: 2025-01-22
 type: review

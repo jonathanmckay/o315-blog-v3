@@ -1,5 +1,5 @@
 ---
-title: "The Warrior's Apprentice (Vorkosigan Saga, #2)"
+title: "Build an Empire, Were it So Easy: The Warrior's Apprentice (Vorkosigan Saga, #2)"
 author: "Lois McMaster Bujold"
 date: 2021-08-26
 type: review

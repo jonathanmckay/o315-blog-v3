@@ -1,5 +1,5 @@
 ---
-title: "The Well of Ascension (Mistborn, #2)"
+title: "3 stars: The Well of Ascension (Mistborn, #2)"
 author: "Brandon Sanderson"
 date: 2022-09-06
 type: review

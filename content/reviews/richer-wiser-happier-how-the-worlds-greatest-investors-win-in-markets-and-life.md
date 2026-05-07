@@ -1,5 +1,5 @@
 ---
-title: "Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life"
+title: "2.5 stars.: Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life"
 author: "William                  Green"
 date: 2022-08-25
 type: review

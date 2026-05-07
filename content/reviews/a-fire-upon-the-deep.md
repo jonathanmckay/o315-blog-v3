@@ -1,5 +1,5 @@
 ---
-title: "A Fire Upon the Deep (Zones of Thought, #1)"
+title: "Redwall mixed with Foundation.: A Fire Upon the Deep (Zones of Thought, #1)"
 author: "Vernor Vinge"
 date: 2019-03-15
 type: review

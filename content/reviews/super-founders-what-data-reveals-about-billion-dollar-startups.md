@@ -1,5 +1,5 @@
 ---
-title: "Super Founders: What Data Reveals About Billion-Dollar Startups"
+title: "Privilege Wins: Super Founders: What Data Reveals About Billion-Dollar Startups"
 author: "Ali Tamaseb"
 date: 2021-07-19
 type: review

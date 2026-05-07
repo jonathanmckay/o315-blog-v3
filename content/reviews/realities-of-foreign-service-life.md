@@ -1,7 +1,7 @@
 ---
 title: "Realities of Foreign Service Life"
 author: "Patricia Linderman"
-date: 2011-08-12
+date: 2026-03-14
 type: review
 media: book
 score: 3

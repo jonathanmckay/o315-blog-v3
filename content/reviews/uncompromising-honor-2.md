@@ -1,5 +1,5 @@
 ---
-title: "Uncompromising Honor (Honor Harrington, #14)"
+title: "End of the Solarian (and Honorific) Line: Uncompromising Honor (Honor Harrington, #14)"
 author: "David  Weber"
 date: 2025-10-07
 type: review

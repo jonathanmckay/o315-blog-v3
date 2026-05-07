@@ -1,5 +1,5 @@
 ---
-title: "Victorious in Defeat: The Life and Times of Chiang Kai-shek, China, 1887-1975"
+title: "Another Dictator: Victorious in Defeat: The Life and Times of Chiang Kai-shek, China, 1887-1975"
 author: "Alexander V. Pantsov"
 date: 2024-01-09
 type: review

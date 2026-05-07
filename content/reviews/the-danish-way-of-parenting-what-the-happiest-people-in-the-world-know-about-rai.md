@@ -1,5 +1,5 @@
 ---
-title: "The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids"
+title: "Light and fluffy, not enough fruit in the center.: The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids"
 author: "Jessica Joelle Alexander"
 date: 2020-12-02
 type: review

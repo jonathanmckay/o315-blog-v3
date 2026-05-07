@@ -1,6 +1,6 @@
 ---
 date: 2023-01-01
-title: "Behind Their Screens: What Teens Are Facing (and Adults Are Missing)"
+title: "Teen Screens, Few Surprises: Behind Their Screens: What Teens Are Facing (and Adults Are Missing)"
 author: "Emily Weinstein"
 type: review
 media: book

@@ -1,5 +1,5 @@
 ---
-title: "The Renaissance (The Story of Civilization, #5)"
+title: "Death by Detail: The Renaissance (The Story of Civilization, #5)"
 author: "Will Durant"
 date: 2021-07-15
 type: review

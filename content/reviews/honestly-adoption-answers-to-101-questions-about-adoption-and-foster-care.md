@@ -1,5 +1,5 @@
 ---
-title: "Honestly Adoption: Answers to 101 Questions About Adoption and Foster Care"
+title: "Trauma and Children: Honestly Adoption: Answers to 101 Questions About Adoption and Foster Care"
 author: "Mike Berry"
 date: 2021-02-21
 type: review
