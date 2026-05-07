@@ -1,6 +1,6 @@
 ---
 date: 2009-01-01
-title: "还行吧。我觉得这本书的语言水平适合我，但是我们为什么需要等到最后一部才看饥饿游戏的事件呢？: Catching Fire (The Hunger Games, #2)"
+title: "Catching Fire (The Hunger Games, #2)"
 author: "Suzanne Collins"
 type: review
 media: book
