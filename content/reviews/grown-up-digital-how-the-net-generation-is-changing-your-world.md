@@ -1,7 +1,7 @@
 ---
 title: "A Net Genner on the Net Generation: Grown Up Digital: How the Net Generation is Changing Your World"
 author: "Don Tapscott"
-date: 2026-03-14
+date: 2008-01-01
 type: review
 media: book
 score: 3

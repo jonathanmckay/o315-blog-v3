@@ -1,7 +1,7 @@
 ---
 title: "Eon (The Way, #1)"
 author: "Greg Bear"
-date: 2026-03-14
+date: 2008-01-01
 type: review
 media: book
 score: 4

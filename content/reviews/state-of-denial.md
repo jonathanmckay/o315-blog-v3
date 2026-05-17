@@ -1,7 +1,7 @@
 ---
 title: "State of Denial"
 author: "Bob Woodward"
-date: 2026-03-14
+date: 2008-01-01
 type: review
 media: book
 score: 5

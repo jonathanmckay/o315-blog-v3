@@ -1,6 +1,6 @@
 ---
 date: 2021-01-01
-title: "Chinese Breeze Graded Reader Series: Level 1: 300 Word Level: 你最喜欢谁?: Nǐ zuì xǐhuan shuí?: Whom Do You Like More?"
+title: "Chinese Breeze Graded Reader Series: Level 1: 300 Word Level: 你最喜欢谁? Nǐ zuì xǐhuan shuí? Whom Do You Like More?"
 author: "Yuehua Liu"
 type: review
 media: book

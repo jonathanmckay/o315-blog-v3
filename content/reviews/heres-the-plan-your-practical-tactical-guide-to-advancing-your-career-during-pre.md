@@ -1,5 +1,5 @@
 ---
-title: "Here's the Plan.: Your Practical, Tactical Guide to Advancing Your Career During Pregnancy and Parenthood"
+title: "Here's the Plan: Your Practical, Tactical Guide to Advancing Your Career During Pregnancy and Parenthood"
 author: "Allyson Downey"
 date: 2020-10-10
 type: review
