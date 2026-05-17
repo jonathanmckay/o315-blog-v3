@@ -1,5 +1,6 @@
 ---
 title: "Deflated Dread: The Faith of Beasts"
+slug: "the-faith-of-beasts"
 author: "James S.A. Corey"
 date: 2026-05-17
 type: review
@@ -10,6 +11,8 @@ source: goodreads
 series: "The Captive's War"
 series_number: 2
 series_prev: "2024/the-mercy-of-gods.md"
+aliases:
+  - "/reviews/deflated-dread-the-faith-of-beasts/"
 related:
   - "2012/drive.md"
   - "2016/leviathan-wakes.md"
