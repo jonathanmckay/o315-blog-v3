@@ -125,3 +125,7 @@ error: Please commit or stash them.
 [2026-05-24 19:20:00] WARN: pull --rebase failed, skipping push. See /tmp/git-autopush-rebase.err
 error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
+[2026-05-24 19:30:00] committed:  1 file changed, 4 insertions(+)
+[2026-05-24 19:30:00] WARN: pull --rebase failed, skipping push. See /tmp/git-autopush-rebase.err
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
