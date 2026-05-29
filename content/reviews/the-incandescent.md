@@ -1,5 +1,5 @@
 ---
-title: "I still have nightmares about going back: The Incandescent"
+title: "Millennial Nightmares: The Incandescent"
 slug: "the-incandescent"
 author: "Emily Tesh"
 date: 2026-05-28
