@@ -7200,3 +7200,8 @@ Please make sure you have the correct access rights
 and the repository exists.
 [2026-06-02 09:43:04] WARNING: push failed
 [2026-06-02 09:43:04] pushed
+[2026-06-02 09:50:00] committed:  1 file changed, 11 insertions(+)
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-06-02 09:50:00] WARNING: pull failed
+[2026-06-02 09:50:00] pushed
