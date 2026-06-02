@@ -7030,3 +7030,14 @@ Please make sure you have the correct access rights
 and the repository exists.
 [2026-06-02 05:20:23] WARNING: push failed
 [2026-06-02 05:20:23] pushed
+[2026-06-02 05:33:39] committed:  1 file changed, 11 insertions(+)
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-06-02 05:33:39] WARNING: pull failed
+ssh: connect to host github.com port 22: Undefined error: 0
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-06-02 05:33:39] WARNING: push failed
+[2026-06-02 05:33:39] pushed
