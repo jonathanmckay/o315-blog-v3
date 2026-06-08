@@ -9469,3 +9469,8 @@ error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 [2026-06-08 14:11:41] WARNING: pull failed
 [2026-06-08 14:11:41] pushed
+[2026-06-08 14:40:00] committed:  43 files changed, 5 insertions(+), 1060 deletions(-)
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-06-08 14:40:00] WARNING: pull failed
+[2026-06-08 14:40:00] pushed
