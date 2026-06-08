@@ -9256,3 +9256,15 @@ error: Please commit or stash them.
 error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 [2026-06-07 18:42:23] WARNING: pull failed
+[2026-06-07 19:00:01] committed:  1 file changed, 4 insertions(+)
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-06-07 19:00:01] WARNING: pull failed
+ssh: connect to host github.com port 22: Undefined error: 0
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-06-07 19:00:01] WARNING: push failed
+[2026-06-07 19:00:01] pushed
+[2026-06-07 18:42:23] pushed
