@@ -9268,3 +9268,8 @@ and the repository exists.
 [2026-06-07 19:00:01] WARNING: push failed
 [2026-06-07 19:00:01] pushed
 [2026-06-07 18:42:23] pushed
+[2026-06-07 19:10:00] committed:  1 file changed, 12 insertions(+)
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-06-07 19:10:00] WARNING: pull failed
+[2026-06-07 19:10:00] pushed
