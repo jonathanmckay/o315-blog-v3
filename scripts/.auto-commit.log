@@ -9283,3 +9283,14 @@ error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 [2026-06-07 19:42:05] WARNING: pull failed
 [2026-06-07 19:42:05] pushed
+[2026-06-08 00:10:00] committed:  1 file changed, 5 insertions(+)
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-06-08 00:10:00] WARNING: pull failed
+Connection closed by 140.82.114.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-06-08 00:10:00] WARNING: push failed
+[2026-06-08 00:10:00] pushed
