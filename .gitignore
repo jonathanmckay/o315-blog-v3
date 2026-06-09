@@ -6,3 +6,7 @@ hugo_stats.json
 
 # OS
 .DS_Store
+
+# Autopush self-log (lives inside the repo; tracking it re-dirties the tree
+# every run and breaks `git pull --rebase`)
+scripts/.auto-commit.log
