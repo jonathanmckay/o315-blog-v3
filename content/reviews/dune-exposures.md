@@ -1,5 +1,5 @@
 ---
-title: "Poetry Was the Original TikTok: Dune: Exposures"
+title: "American Jahiliyya: Dune: Exposures"
 slug: "dune-exposures"
 author: "Josh Brolin and Greig Fraser"
 date: 2026-07-31
