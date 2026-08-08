@@ -31,7 +31,7 @@ OpenAI, and the U.S. Foreign Service.
 """
 
 [[menu.main]]
-name = "Archive"
+name = "Posts"
 url = "/posts/"
 weight = 10
 
