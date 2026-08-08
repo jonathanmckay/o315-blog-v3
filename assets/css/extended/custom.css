@@ -188,6 +188,11 @@ a:hover {
     border-color: #ddd;
 }
 
+/* Space between year groups in the reviews-by-year index */
+.review-year-block {
+    margin-top: 2rem;
+}
+
 /* Footer info below subscribe */
 .footer-info {
     max-width: var(--content-width);

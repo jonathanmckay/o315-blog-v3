@@ -10,25 +10,35 @@
 {{- $reviews := where .Pages "Params.draft" "ne" true }}
 {{- $sorted := $reviews.ByDate.Reverse }}
 
-<h2>Most Recent 5</h2>
-<ul class="review-list">
-  {{- range first 5 $sorted }}
-  <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-    {{- with .Params.author }} — <span class="review-author">{{ . }}</span>{{ end }}
-  </li>
-  {{- end }}
-</ul>
+<h2>Newest Reviews</h2>
+{{- range first 5 $sorted }}
+<article class="post-entry">
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">{{ .Title }}</h2>
+  </header>
+  <div class="entry-content">
+    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+  </div>
+  <footer class="entry-footer">
+    {{- with .Params.author }}<span class="review-author">{{ . }}</span> · {{ end }}
+    {{- with .Params.score }}<span class="review-score">{{ . }}/5</span> · {{ end }}
+    <span>{{ .Date.Format "2006.01.02" }}</span>
+  </footer>
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
 
 <h2>Books Reviewed by Year</h2>
 {{- $years := $sorted.GroupByDate "2006" }}
 {{- range $years }}
-<h3>{{ .Key }}</h3>
-<ul class="review-list">
-  {{- range .Pages }}
-  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-  {{- end }}
-</ul>
+<div class="review-year-block">
+  <h3>{{ .Key }}</h3>
+  <ul class="review-list">
+    {{- range .Pages }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{- end }}
+  </ul>
+</div>
 {{- end }}
 
 {{- end }}
