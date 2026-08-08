@@ -8,7 +8,8 @@ _index.md cascade handles layout assignment.
 Usage:
   cd ~/vault/hcmp/o315/blog
   python3 scripts/sync-vault-reviews.py --dry-run
-  python3 scripts/sync-vault-reviews.py
+  python3 scripts/sync-vault-reviews.py            # add/update only
+  python3 scripts/sync-vault-reviews.py --prune    # also remove blog files with no matching vault review
 """
 
 import argparse
@@ -101,6 +102,7 @@ def main():
     parser = argparse.ArgumentParser(description="Sync vault reviews to blog content")
     parser.add_argument("--dry-run", action="store_true", help="Preview changes without writing")
     parser.add_argument("--verbose", action="store_true", help="Show unchanged files too")
+    parser.add_argument("--prune", action="store_true", help="Remove blog files with no matching vault review (required for deletions to actually happen)")
     args = parser.parse_args()
 
     if not os.path.isdir(VAULT_REVIEWS):
@@ -151,14 +153,18 @@ def main():
             with open(dst_path, "w", encoding="utf-8") as f:
                 f.write(src_content)
 
-    # Remove orphans (blog files not in vault)
+    # Remove orphans (blog files not in vault) -- only when --prune is passed
     removed = 0
+    skipped_prune = 0
     for fn in sorted(os.listdir(CONTENT_REVIEWS)):
         if fn == "_index.md":
             continue
         if not fn.endswith(".md"):
             continue
         if fn not in vault_reviews:
+            if not args.prune:
+                skipped_prune += 1
+                continue
             removed += 1
             prefix = "[dry-run] " if args.dry_run else ""
             print(f"  {prefix}remove: {fn}")
@@ -170,6 +176,8 @@ def main():
     print(f"  Updated: {updated}")
     print(f"  Unchanged: {unchanged}")
     print(f"  Removed: {removed}")
+    if skipped_prune:
+        print(f"  Orphaned in blog but not in vault: {skipped_prune} (pass --prune to remove)")
 
 
 if __name__ == "__main__":
