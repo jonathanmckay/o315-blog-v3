@@ -1,5 +1,5 @@
 ---
-title: "**Thankful for the Theif**: Arabic Poems"
+title: "Thankful for the Theif: Arabic Poems"
 slug: arabic-poems
 author: Marlé Hammond
 date: 2026-08-12
